@@ -1,0 +1,1521 @@
+[INFO] Scanning for projects...
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.share\pom.xml
+[INFO] Fetching p2.index from http://download.eclipse.org/eclipse/updates/4.5/R-4.5.1-201509040015/ (0B at 0B/s)
+[INFO] Adding repository http://download.eclipse.org/eclipse/updates/4.5/R-4.5.1-201509040015
+[INFO] Adding repository http://download.eclipse.org/tools/gef/updates/releases/3.10.1_gef-maintenance_1205
+[INFO] Adding repository http://p2.xmind.net/updates/xmind/R3.6.1.201512240104/orbit
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.share\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.share\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.signin:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.signin\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:net.xmind.signin:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.signin\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:net.xmind.signin:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.signin\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.workbench:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.workbench\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:net.xmind.workbench:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.workbench\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:net.xmind.workbench:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.workbench\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.cathy:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.fonts:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy.fonts\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.fonts:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy.fonts\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.fonts:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy.fonts\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.win32:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy.win32\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.win32:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy.win32\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.win32:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy.win32\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.command:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote.lan:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote.lan\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote.lan:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote.lan\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote.lan:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote.lan\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.io:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.io\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.io:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.io\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.io:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.io\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.net:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.net\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.net:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.net\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.net:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.net\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.runtime:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.runtime\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.runtime:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.runtime\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.runtime:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.runtime\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.sharing.localnetwork:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.sharing.localnetwork\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.sharing.localnetwork:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.sharing.localnetwork\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.sharing.localnetwork:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.sharing.localnetwork\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.orbit:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.de.erichseifert.vectorgraphics2d\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.orbit:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.de.erichseifert.vectorgraphics2d\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.orbit:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.de.erichseifert.vectorgraphics2d\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.gef:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.gef\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.gef:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.gef\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.gef:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.gef\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.gef.ui:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.gef.ui\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.gef.ui:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.gef.ui\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.gef.ui:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.gef.ui\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.neuquant:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.neuquant\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.neuquant:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.neuquant\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.neuquant:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.neuquant\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.orbit:org.xmind.org.freehep.vectorgraphics:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.org.freehep.vectorgraphics\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.orbit:org.xmind.org.freehep.vectorgraphics:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.org.freehep.vectorgraphics\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.orbit:org.xmind.org.freehep.vectorgraphics:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.org.freehep.vectorgraphics\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.biggerplate:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.biggerplate\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.biggerplate:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.biggerplate\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.biggerplate:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.biggerplate\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.browser:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.browser\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.browser:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.browser\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.browser:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.browser\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.dashboard:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.dashboard\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.dashboard:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.dashboard\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.dashboard:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.dashboard\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.evernote:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.evernote\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.evernote:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.evernote\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.evernote:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.evernote\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.fishbone:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.fishbone\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.fishbone:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.fishbone\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.fishbone:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.fishbone\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.imports:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.imports\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.imports:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.imports\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.imports:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.imports\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.menus:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.menus\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.menus:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.menus\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.menus:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.menus\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.mindmap:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.mindmap\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.mindmap:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.mindmap\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.mindmap:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.mindmap\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.resources:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.resources\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.resources:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.resources\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.resources:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.resources\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.sharing:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.sharing\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.sharing:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.sharing\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.sharing:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.sharing\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spelling:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.spelling\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spelling:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.spelling\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spelling:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.spelling\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spreadsheet:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.spreadsheet\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spreadsheet:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.spreadsheet\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spreadsheet:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.spreadsheet\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.toolkit:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.toolkit\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.toolkit:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.toolkit\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.toolkit:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.toolkit\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.cathy.platform.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.cathy.platform.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.cathy.platform.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.cathy.platform.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.cathy.platform.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.cathy.platform.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.hebe.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.hebe.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.hebe.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.hebe.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.hebe.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.hebe.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.cathy.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.cathy.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.cathy.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.cathy.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.cathy.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.cathy.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:net.xmind.workbench.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\net.xmind.workbench.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:net.xmind.workbench.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\net.xmind.workbench.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:net.xmind.workbench.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\net.xmind.workbench.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.biggerplate.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.biggerplate.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.biggerplate.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.biggerplate.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.biggerplate.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.biggerplate.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.evernote.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.evernote.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.evernote.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.evernote.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.evernote.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.evernote.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.localnetwork.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.localnetwork.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.localnetwork.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.localnetwork.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.localnetwork.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.localnetwork.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.xmindnet.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.xmindnet.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.xmindnet.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.xmindnet.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.xmindnet.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.xmindnet.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.graphicsio.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.graphicsio.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.graphicsio.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.graphicsio.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.graphicsio.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.graphicsio.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.releng:org.xmind.cathy.repository:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\releng\org.xmind.cathy.repository\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.releng:org.xmind.cathy.repository:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\releng\org.xmind.cathy.repository\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.releng:org.xmind.cathy.repository:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\releng\org.xmind.cathy.repository\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.releng:org.xmind.cathy.product:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\releng\org.xmind.cathy.product\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.releng:org.xmind.cathy.product:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\releng\org.xmind.cathy.product\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.releng:org.xmind.cathy.product:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\releng\org.xmind.cathy.product\pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] org.xmind.cathy.releng
+[INFO] org.xmind.core.command
+[INFO] org.xmind.core
+[INFO] org.xmind.core.runtime
+[INFO] org.xmind.neuquant
+[INFO] org.xmind.gef
+[INFO] org.xmind.ui.toolkit
+[INFO] org.xmind.gef.ui
+[INFO] org.xmind.ui.browser
+[INFO] org.xmind.ui.spelling
+[INFO] org.xmind.ui.mindmap
+[INFO] org.xmind.ui
+[INFO] org.xmind.core.net
+[INFO] net.xmind.signin
+[INFO] net.xmind.share
+[INFO] net.xmind.workbench
+[INFO] org.xmind.core.io
+[INFO] org.xmind.ui.imports
+[INFO] org.xmind.core.command.remote
+[INFO] org.xmind.ui.dashboard
+[INFO] org.xmind.cathy
+[INFO] org.xmind.cathy.fonts
+[INFO] org.xmind.cathy.win32
+[INFO] org.xmind.core.command.remote.lan
+[INFO] org.xmind.core.sharing.localnetwork
+[INFO] org.xmind.de.erichseifert.vectorgraphics2d
+[INFO] org.xmind.org.freehep.vectorgraphics
+[INFO] org.xmind.ui.biggerplate
+[INFO] org.xmind.ui.evernote
+[INFO] org.xmind.ui.fishbone
+[INFO] org.xmind.ui.menus
+[INFO] org.xmind.ui.resources
+[INFO] org.xmind.ui.sharing
+[INFO] org.xmind.ui.spreadsheet
+[INFO] org.xmind.cathy.platform.feature
+[INFO] org.xmind.hebe.feature
+[INFO] org.xmind.cathy.feature
+[INFO] net.xmind.workbench.feature
+[INFO] org.xmind.share.biggerplate.feature
+[INFO] org.xmind.share.evernote.feature
+[INFO] org.xmind.share.localnetwork.feature
+[INFO] org.xmind.share.xmindnet.feature
+[INFO] org.xmind.graphicsio.feature
+[INFO] org.xmind.cathy.repository
+[INFO] org.xmind.cathy.product
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.releng 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy.releng ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.command 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.command ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.core.command ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.core.command ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.core.command ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.core.command ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core.command\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.core.command ---
+[INFO] Compiling 24 source files to E:\websync\GIT\xmind\bundles\org.xmind.core.command\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.core.command ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core.command\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.core.command ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.core.command ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.core.command\target\org.xmind.core.command-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.core.command ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.core ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.core ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.core ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.core ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.core ---
+[INFO] Compiling 241 source files to E:\websync\GIT\xmind\bundles\org.xmind.core\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.core ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.core ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.core ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.core\target\org.xmind.core-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.core ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.runtime 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.runtime ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.core.runtime ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.core.runtime ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.core.runtime ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.core.runtime ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core.runtime\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.core.runtime ---
+[INFO] Compiling 17 source files to E:\websync\GIT\xmind\bundles\org.xmind.core.runtime\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.core.runtime ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core.runtime\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.core.runtime ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.core.runtime ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.core.runtime\target\org.xmind.core.runtime-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.core.runtime ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.neuquant 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.neuquant ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.neuquant ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.neuquant ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.neuquant ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.neuquant ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.neuquant\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.neuquant ---
+[INFO] Compiling 1 source file to E:\websync\GIT\xmind\bundles\org.xmind.neuquant\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.neuquant ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.neuquant\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.neuquant ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.neuquant ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.neuquant\target\org.xmind.neuquant-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.neuquant ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.gef 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.gef ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.gef ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.gef ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.gef ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.gef ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.gef\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.gef ---
+[INFO] Compiling 300 source files to E:\websync\GIT\xmind\bundles\org.xmind.gef\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.gef ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.gef\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.gef ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.gef ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.gef\target\org.xmind.gef-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.gef ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.toolkit 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.toolkit ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.toolkit ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.toolkit ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.toolkit ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.toolkit ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.toolkit\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.toolkit ---
+[INFO] Compiling 195 source files to E:\websync\GIT\xmind\bundles\org.xmind.ui.toolkit\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.toolkit ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.toolkit\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.toolkit ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.toolkit ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.ui.toolkit\target\org.xmind.ui.toolkit-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.toolkit ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.gef.ui 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.gef.ui ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.gef.ui ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.gef.ui ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.gef.ui ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.gef.ui ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.gef.ui\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.gef.ui ---
+[INFO] Compiling 117 source files to E:\websync\GIT\xmind\bundles\org.xmind.gef.ui\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.gef.ui ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.gef.ui\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.gef.ui ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.gef.ui ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.gef.ui\target\org.xmind.gef.ui-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.gef.ui ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.browser 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.browser ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.browser ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.browser ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.browser ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.browser ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.browser\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.browser ---
+[INFO] Compiling 36 source files to E:\websync\GIT\xmind\bundles\org.xmind.ui.browser\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.browser ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.browser\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.browser ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.browser ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.ui.browser\target\org.xmind.ui.browser-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.browser ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.spelling 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.spelling ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.spelling ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.spelling ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.spelling ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.spelling ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.spelling\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.spelling ---
+[INFO] Compiling 16 source files to E:\websync\GIT\xmind\bundles\org.xmind.ui.spelling\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.spelling ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.spelling\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.spelling ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.spelling ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.ui.spelling\target\org.xmind.ui.spelling-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.spelling ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.mindmap 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.mindmap ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.mindmap ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.mindmap ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.mindmap ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.mindmap ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.mindmap\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.mindmap ---
+[INFO] Compiling 972 source files to E:\websync\GIT\xmind\bundles\org.xmind.ui.mindmap\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.mindmap ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.mindmap\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.mindmap ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.mindmap ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.ui.mindmap\target\org.xmind.ui.mindmap-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.mindmap ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui ---
+[INFO] Compiling 1 source file to E:\websync\GIT\xmind\bundles\org.xmind.ui\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.ui\target\org.xmind.ui-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.net 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.net ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.core.net ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.core.net ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.core.net ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.core.net ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core.net\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.core.net ---
+[INFO] Compiling 7 source files to E:\websync\GIT\xmind\bundles\org.xmind.core.net\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.core.net ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core.net\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.core.net ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.core.net ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.core.net\target\org.xmind.core.net-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.core.net ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building net.xmind.signin 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ net.xmind.signin ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ net.xmind.signin ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ net.xmind.signin ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ net.xmind.signin ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ net.xmind.signin ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\net.xmind.signin\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ net.xmind.signin ---
+[INFO] Compiling 38 source files to E:\websync\GIT\xmind\bundles\net.xmind.signin\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ net.xmind.signin ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\net.xmind.signin\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ net.xmind.signin ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ net.xmind.signin ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\net.xmind.signin\target\net.xmind.signin-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ net.xmind.signin ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building net.xmind.share 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ net.xmind.share ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ net.xmind.share ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ net.xmind.share ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ net.xmind.share ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ net.xmind.share ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\net.xmind.share\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ net.xmind.share ---
+[INFO] Compiling 20 source files to E:\websync\GIT\xmind\bundles\net.xmind.share\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ net.xmind.share ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\net.xmind.share\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ net.xmind.share ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ net.xmind.share ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\net.xmind.share\target\net.xmind.share-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ net.xmind.share ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building net.xmind.workbench 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ net.xmind.workbench ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ net.xmind.workbench ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ net.xmind.workbench ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ net.xmind.workbench ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ net.xmind.workbench ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\net.xmind.workbench\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ net.xmind.workbench ---
+[INFO] Compiling 27 source files to E:\websync\GIT\xmind\bundles\net.xmind.workbench\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ net.xmind.workbench ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\net.xmind.workbench\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ net.xmind.workbench ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ net.xmind.workbench ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\net.xmind.workbench\target\net.xmind.workbench-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ net.xmind.workbench ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.io 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.io ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.core.io ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.core.io ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.core.io ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.core.io ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core.io\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.core.io ---
+[INFO] Compiling 9 source files to E:\websync\GIT\xmind\bundles\org.xmind.core.io\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.core.io ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core.io\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.core.io ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.core.io ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.core.io\target\org.xmind.core.io-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.core.io ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.imports 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.imports ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.imports ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.imports ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.imports ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.imports ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.imports\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.imports ---
+[INFO] Compiling 7 source files to E:\websync\GIT\xmind\bundles\org.xmind.ui.imports\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.imports ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.imports\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.imports ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.imports ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.ui.imports\target\org.xmind.ui.imports-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.imports ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.command.remote 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.command.remote ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.core.command.remote ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.core.command.remote ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.core.command.remote ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.core.command.remote ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.core.command.remote ---
+[INFO] Compiling 37 source files to E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.core.command.remote ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.core.command.remote ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.core.command.remote ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote\target\org.xmind.core.command.remote-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.core.command.remote ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.dashboard 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.dashboard ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.dashboard ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.dashboard ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.dashboard ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.dashboard ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.dashboard\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.dashboard ---
+[INFO] Compiling 4 source files to E:\websync\GIT\xmind\bundles\org.xmind.ui.dashboard\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.dashboard ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.dashboard\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.dashboard ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.dashboard ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.ui.dashboard\target\org.xmind.ui.dashboard-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.dashboard ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.cathy ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.cathy ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.cathy ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.cathy ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.cathy\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.cathy ---
+[INFO] Compiling 100 source files to E:\websync\GIT\xmind\bundles\org.xmind.cathy\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.cathy ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.cathy\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.cathy ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.cathy ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.cathy\target\org.xmind.cathy-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.cathy ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.fonts 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy.fonts ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.cathy.fonts ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.cathy.fonts ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.cathy.fonts ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.cathy.fonts ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.cathy.fonts\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.cathy.fonts ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.cathy.fonts ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.cathy.fonts\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.cathy.fonts ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.cathy.fonts ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.cathy.fonts\target\org.xmind.cathy.fonts-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.cathy.fonts ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.win32 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy.win32 ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.cathy.win32 ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.cathy.win32 ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.cathy.win32 ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.cathy.win32 ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.cathy.win32\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.cathy.win32 ---
+[INFO] Compiling 2 source files to E:\websync\GIT\xmind\bundles\org.xmind.cathy.win32\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.cathy.win32 ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.cathy.win32\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.cathy.win32 ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.cathy.win32 ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.cathy.win32\target\org.xmind.cathy.win32-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.cathy.win32 ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.command.remote.lan 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.command.remote.lan ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.core.command.remote.lan ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.core.command.remote.lan ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.core.command.remote.lan ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.core.command.remote.lan ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote.lan\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.core.command.remote.lan ---
+[INFO] Compiling 14 source files to E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote.lan\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.core.command.remote.lan ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote.lan\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.core.command.remote.lan ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.core.command.remote.lan ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote.lan\target\org.xmind.core.command.remote.lan-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.core.command.remote.lan ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.sharing.localnetwork 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.sharing.localnetwork ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.core.sharing.localnetwork ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.core.sharing.localnetwork ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.core.sharing.localnetwork ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.core.sharing.localnetwork ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core.sharing.localnetwork\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.core.sharing.localnetwork ---
+[INFO] Compiling 26 source files to E:\websync\GIT\xmind\bundles\org.xmind.core.sharing.localnetwork\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.core.sharing.localnetwork ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.core.sharing.localnetwork\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.core.sharing.localnetwork ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.core.sharing.localnetwork ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.core.sharing.localnetwork\target\org.xmind.core.sharing.localnetwork-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.core.sharing.localnetwork ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.de.erichseifert.vectorgraphics2d 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.de.erichseifert.vectorgraphics2d ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.de.erichseifert.vectorgraphics2d ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.de.erichseifert.vectorgraphics2d ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.de.erichseifert.vectorgraphics2d ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.de.erichseifert.vectorgraphics2d ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.de.erichseifert.vectorgraphics2d\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.de.erichseifert.vectorgraphics2d ---
+[INFO] Compiling 5 source files to E:\websync\GIT\xmind\bundles\org.xmind.de.erichseifert.vectorgraphics2d\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.de.erichseifert.vectorgraphics2d ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.de.erichseifert.vectorgraphics2d\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.de.erichseifert.vectorgraphics2d ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.de.erichseifert.vectorgraphics2d ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.de.erichseifert.vectorgraphics2d\target\org.xmind.de.erichseifert.vectorgraphics2d-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.de.erichseifert.vectorgraphics2d ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.org.freehep.vectorgraphics 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.org.freehep.vectorgraphics ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.org.freehep.vectorgraphics ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.org.freehep.vectorgraphics ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.org.freehep.vectorgraphics ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.org.freehep.vectorgraphics ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.org.freehep.vectorgraphics\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.org.freehep.vectorgraphics ---
+[INFO] Compiling 86 source files to E:\websync\GIT\xmind\bundles\org.xmind.org.freehep.vectorgraphics\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.org.freehep.vectorgraphics ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.org.freehep.vectorgraphics\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.org.freehep.vectorgraphics ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.org.freehep.vectorgraphics ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.org.freehep.vectorgraphics\target\org.xmind.org.freehep.vectorgraphics-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.org.freehep.vectorgraphics ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.biggerplate 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.biggerplate ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.biggerplate ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.biggerplate ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.biggerplate ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.biggerplate ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.biggerplate\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.biggerplate ---
+[INFO] Compiling 16 source files to E:\websync\GIT\xmind\bundles\org.xmind.ui.biggerplate\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.biggerplate ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.biggerplate\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.biggerplate ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.biggerplate ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.ui.biggerplate\target\org.xmind.ui.biggerplate-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.biggerplate ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.evernote 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.evernote ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.evernote ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.evernote ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.evernote ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.evernote ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.evernote\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.evernote ---
+[INFO] Compiling 18 source files to E:\websync\GIT\xmind\bundles\org.xmind.ui.evernote\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.evernote ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.evernote\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.evernote ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.evernote ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.ui.evernote\target\org.xmind.ui.evernote-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.evernote ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.fishbone 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.fishbone ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.fishbone ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.fishbone ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.fishbone ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.fishbone ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.fishbone\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.fishbone ---
+[INFO] Compiling 44 source files to E:\websync\GIT\xmind\bundles\org.xmind.ui.fishbone\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.fishbone ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.fishbone\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.fishbone ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.fishbone ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.ui.fishbone\target\org.xmind.ui.fishbone-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.fishbone ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.menus 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.menus ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.menus ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.menus ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.menus ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.menus ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.menus\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.menus ---
+[INFO] Compiling 1 source file to E:\websync\GIT\xmind\bundles\org.xmind.ui.menus\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.menus ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.menus\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.menus ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.menus ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.ui.menus\target\org.xmind.ui.menus-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.menus ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.resources 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.resources ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.resources ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.resources ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.resources ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.resources ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.resources\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.resources ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.resources ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.resources\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.resources ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.resources ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.ui.resources\target\org.xmind.ui.resources-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.resources ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.sharing 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.sharing ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.sharing ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.sharing ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.sharing ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.sharing ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.sharing\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.sharing ---
+[INFO] Compiling 38 source files to E:\websync\GIT\xmind\bundles\org.xmind.ui.sharing\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.sharing ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.sharing\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.sharing ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.sharing ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.ui.sharing\target\org.xmind.ui.sharing-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.sharing ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.spreadsheet 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.spreadsheet ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.spreadsheet ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.spreadsheet ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.spreadsheet ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.spreadsheet ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.spreadsheet\src\main\resources
+[INFO] 
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.spreadsheet ---
+[INFO] Compiling 48 source files to E:\websync\GIT\xmind\bundles\org.xmind.ui.spreadsheet\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.spreadsheet ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\bundles\org.xmind.ui.spreadsheet\src\test\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.spreadsheet ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.spreadsheet ---
+[INFO] Building jar: E:\websync\GIT\xmind\bundles\org.xmind.ui.spreadsheet\target\org.xmind.ui.spreadsheet-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.spreadsheet ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.platform.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy.platform.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ org.xmind.cathy.platform.feature ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.cathy.platform.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.cathy.platform.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.cathy.platform.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-feature (default-package-feature) @ org.xmind.cathy.platform.feature ---
+[INFO] Building jar: E:\websync\GIT\xmind\features\org.xmind.cathy.platform.feature\target\org.xmind.cathy.platform.feature-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.cathy.platform.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:feature-p2-metadata (default-feature-p2-metadata) @ org.xmind.cathy.platform.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.hebe.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.hebe.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ org.xmind.hebe.feature ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.hebe.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.hebe.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.hebe.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-feature (default-package-feature) @ org.xmind.hebe.feature ---
+[INFO] Building jar: E:\websync\GIT\xmind\features\org.xmind.hebe.feature\target\org.xmind.hebe.feature-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.hebe.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:feature-p2-metadata (default-feature-p2-metadata) @ org.xmind.hebe.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ org.xmind.cathy.feature ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.cathy.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.cathy.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.cathy.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-feature (default-package-feature) @ org.xmind.cathy.feature ---
+[INFO] Building jar: E:\websync\GIT\xmind\features\org.xmind.cathy.feature\target\org.xmind.cathy.feature-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.cathy.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:feature-p2-metadata (default-feature-p2-metadata) @ org.xmind.cathy.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building net.xmind.workbench.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ net.xmind.workbench.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ net.xmind.workbench.feature ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ net.xmind.workbench.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ net.xmind.workbench.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ net.xmind.workbench.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-feature (default-package-feature) @ net.xmind.workbench.feature ---
+[INFO] Building jar: E:\websync\GIT\xmind\features\net.xmind.workbench.feature\target\net.xmind.workbench.feature-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ net.xmind.workbench.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:feature-p2-metadata (default-feature-p2-metadata) @ net.xmind.workbench.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.share.biggerplate.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.share.biggerplate.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ org.xmind.share.biggerplate.feature ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.share.biggerplate.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.share.biggerplate.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.share.biggerplate.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-feature (default-package-feature) @ org.xmind.share.biggerplate.feature ---
+[INFO] Building jar: E:\websync\GIT\xmind\features\org.xmind.share.biggerplate.feature\target\org.xmind.share.biggerplate.feature-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.share.biggerplate.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:feature-p2-metadata (default-feature-p2-metadata) @ org.xmind.share.biggerplate.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.share.evernote.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.share.evernote.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ org.xmind.share.evernote.feature ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.share.evernote.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.share.evernote.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.share.evernote.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-feature (default-package-feature) @ org.xmind.share.evernote.feature ---
+[INFO] Building jar: E:\websync\GIT\xmind\features\org.xmind.share.evernote.feature\target\org.xmind.share.evernote.feature-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.share.evernote.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:feature-p2-metadata (default-feature-p2-metadata) @ org.xmind.share.evernote.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.share.localnetwork.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.share.localnetwork.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ org.xmind.share.localnetwork.feature ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.share.localnetwork.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.share.localnetwork.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.share.localnetwork.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-feature (default-package-feature) @ org.xmind.share.localnetwork.feature ---
+[INFO] Building jar: E:\websync\GIT\xmind\features\org.xmind.share.localnetwork.feature\target\org.xmind.share.localnetwork.feature-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.share.localnetwork.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:feature-p2-metadata (default-feature-p2-metadata) @ org.xmind.share.localnetwork.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.share.xmindnet.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.share.xmindnet.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ org.xmind.share.xmindnet.feature ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.share.xmindnet.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.share.xmindnet.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.share.xmindnet.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-feature (default-package-feature) @ org.xmind.share.xmindnet.feature ---
+[INFO] Building jar: E:\websync\GIT\xmind\features\org.xmind.share.xmindnet.feature\target\org.xmind.share.xmindnet.feature-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.share.xmindnet.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:feature-p2-metadata (default-feature-p2-metadata) @ org.xmind.share.xmindnet.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.graphicsio.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.graphicsio.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ org.xmind.graphicsio.feature ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.graphicsio.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.graphicsio.feature ---
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.graphicsio.feature ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:package-feature (default-package-feature) @ org.xmind.graphicsio.feature ---
+[INFO] Building jar: E:\websync\GIT\xmind\features\org.xmind.graphicsio.feature\target\org.xmind.graphicsio.feature-3.6.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.graphicsio.feature ---
+[INFO] 
+[INFO] --- tycho-p2-plugin:0.23.0:feature-p2-metadata (default-feature-p2-metadata) @ org.xmind.graphicsio.feature ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.repository 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy.repository ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ org.xmind.cathy.repository ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean-1) @ org.xmind.cathy.repository ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.cathy.repository ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\releng\org.xmind.cathy.repository\src\main\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.cathy.repository ---
+[INFO] 
+[INFO] --- tycho-p2-publisher-plugin:0.23.0:publish-products (default-publish-products) @ org.xmind.cathy.repository ---
+[INFO] 
+[INFO] --- tycho-p2-publisher-plugin:0.23.0:publish-categories (default-publish-categories) @ org.xmind.cathy.repository ---
+[INFO] 
+[INFO] --- tycho-p2-publisher-plugin:0.23.0:attach-artifacts (default-attach-artifacts) @ org.xmind.cathy.repository ---
+[INFO] 
+[INFO] --- tycho-p2-repository-plugin:0.23.0:assemble-repository (default-assemble-repository) @ org.xmind.cathy.repository ---
+[INFO] 
+[INFO] --- tycho-p2-repository-plugin:0.23.0:archive-repository (default-archive-repository) @ org.xmind.cathy.repository ---
+[INFO] Building zip: E:\websync\GIT\xmind\releng\org.xmind.cathy.repository\target\org.xmind.cathy.repository-3.6.1-SNAPSHOT.zip
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.product 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy.product ---
+[INFO] 
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier-aggregator (default-build-qualifier-aggregator) @ org.xmind.cathy.product ---
+[INFO] The project's OSGi version is 3.6.1.201604151623
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean-1) @ org.xmind.cathy.product ---
+[INFO] 
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.cathy.product ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\websync\GIT\xmind\releng\org.xmind.cathy.product\src\main\resources
+[INFO] 
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.cathy.product ---
+[INFO] 
+[INFO] --- tycho-p2-publisher-plugin:0.23.0:publish-products (default-publish-products) @ org.xmind.cathy.product ---
+[INFO] 
+[INFO] --- tycho-p2-publisher-plugin:0.23.0:publish-categories (default-publish-categories) @ org.xmind.cathy.product ---
+[INFO] 
+[INFO] --- tycho-p2-publisher-plugin:0.23.0:attach-artifacts (default-attach-artifacts) @ org.xmind.cathy.product ---
+[INFO] 
+[INFO] --- tycho-p2-repository-plugin:0.23.0:assemble-repository (default-assemble-repository) @ org.xmind.cathy.product ---
+[INFO] 
+[INFO] --- tycho-p2-repository-plugin:0.23.0:archive-repository (default-archive-repository) @ org.xmind.cathy.product ---
+[INFO] Building zip: E:\websync\GIT\xmind\releng\org.xmind.cathy.product\target\org.xmind.cathy.product-3.6.1-SNAPSHOT.zip
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO] 
+[INFO] org.xmind.cathy.releng ............................. SUCCESS [  0.044 s]
+[INFO] org.xmind.core.command ............................. SUCCESS [  1.094 s]
+[INFO] org.xmind.core ..................................... SUCCESS [  1.451 s]
+[INFO] org.xmind.core.runtime ............................. SUCCESS [  0.424 s]
+[INFO] org.xmind.neuquant ................................. SUCCESS [  0.092 s]
+[INFO] org.xmind.gef ...................................... SUCCESS [  1.713 s]
+[INFO] org.xmind.ui.toolkit ............................... SUCCESS [  2.666 s]
+[INFO] org.xmind.gef.ui ................................... SUCCESS [  1.244 s]
+[INFO] org.xmind.ui.browser ............................... SUCCESS [  0.397 s]
+[INFO] org.xmind.ui.spelling .............................. SUCCESS [  0.717 s]
+[INFO] org.xmind.ui.mindmap ............................... SUCCESS [ 12.752 s]
+[INFO] org.xmind.ui ....................................... SUCCESS [  0.222 s]
+[INFO] org.xmind.core.net ................................. SUCCESS [  0.207 s]
+[INFO] net.xmind.signin ................................... SUCCESS [  0.489 s]
+[INFO] net.xmind.share .................................... SUCCESS [  1.222 s]
+[INFO] net.xmind.workbench ................................ SUCCESS [  0.460 s]
+[INFO] org.xmind.core.io .................................. SUCCESS [  0.145 s]
+[INFO] org.xmind.ui.imports ............................... SUCCESS [  0.210 s]
+[INFO] org.xmind.core.command.remote ...................... SUCCESS [  0.210 s]
+[INFO] org.xmind.ui.dashboard ............................. SUCCESS [  0.111 s]
+[INFO] org.xmind.cathy .................................... SUCCESS [  1.511 s]
+[INFO] org.xmind.cathy.fonts .............................. SUCCESS [  0.157 s]
+[INFO] org.xmind.cathy.win32 .............................. SUCCESS [  0.192 s]
+[INFO] org.xmind.core.command.remote.lan .................. SUCCESS [  0.300 s]
+[INFO] org.xmind.core.sharing.localnetwork ................ SUCCESS [  0.206 s]
+[INFO] org.xmind.de.erichseifert.vectorgraphics2d ......... SUCCESS [  0.219 s]
+[INFO] org.xmind.org.freehep.vectorgraphics ............... SUCCESS [  0.753 s]
+[INFO] org.xmind.ui.biggerplate ........................... SUCCESS [  1.653 s]
+[INFO] org.xmind.ui.evernote .............................. SUCCESS [  0.475 s]
+[INFO] org.xmind.ui.fishbone .............................. SUCCESS [  0.720 s]
+[INFO] org.xmind.ui.menus ................................. SUCCESS [  0.190 s]
+[INFO] org.xmind.ui.resources ............................. SUCCESS [  0.268 s]
+[INFO] org.xmind.ui.sharing ............................... SUCCESS [  0.968 s]
+[INFO] org.xmind.ui.spreadsheet ........................... SUCCESS [  0.634 s]
+[INFO] org.xmind.cathy.platform.feature ................... SUCCESS [  0.348 s]
+[INFO] org.xmind.hebe.feature ............................. SUCCESS [  0.165 s]
+[INFO] org.xmind.cathy.feature ............................ SUCCESS [  0.120 s]
+[INFO] net.xmind.workbench.feature ........................ SUCCESS [  0.096 s]
+[INFO] org.xmind.share.biggerplate.feature ................ SUCCESS [  0.093 s]
+[INFO] org.xmind.share.evernote.feature ................... SUCCESS [  1.045 s]
+[INFO] org.xmind.share.localnetwork.feature ............... SUCCESS [  0.145 s]
+[INFO] org.xmind.share.xmindnet.feature ................... SUCCESS [  0.069 s]
+[INFO] org.xmind.graphicsio.feature ....................... SUCCESS [  0.071 s]
+[INFO] org.xmind.cathy.repository ......................... SUCCESS [  7.345 s]
+[INFO] org.xmind.cathy.product ............................ SUCCESS [  9.108 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 01:02 min
+[INFO] Finished at: 2016-04-15T17:24:21+01:00
+[INFO] Final Memory: 69M/1652M
+[INFO] ------------------------------------------------------------------------

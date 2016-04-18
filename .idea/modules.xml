@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bundles/net.xmind.share/net.xmind.share.iml" filepath="$PROJECT_DIR$/bundles/net.xmind.share/net.xmind.share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/net.xmind.signin/net.xmind.signin.iml" filepath="$PROJECT_DIR$/bundles/net.xmind.signin/net.xmind.signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/net.xmind.workbench/net.xmind.workbench.iml" filepath="$PROJECT_DIR$/bundles/net.xmind.workbench/net.xmind.workbench.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/net.xmind.workbench.feature/net.xmind.workbench.feature.iml" filepath="$PROJECT_DIR$/features/net.xmind.workbench.feature/net.xmind.workbench.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.cathy/org.xmind.cathy.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.cathy/org.xmind.cathy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/org.xmind.cathy.feature/org.xmind.cathy.feature.iml" filepath="$PROJECT_DIR$/features/org.xmind.cathy.feature/org.xmind.cathy.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.cathy.fonts/org.xmind.cathy.fonts.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.cathy.fonts/org.xmind.cathy.fonts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/org.xmind.cathy.platform.feature/org.xmind.cathy.platform.feature.iml" filepath="$PROJECT_DIR$/features/org.xmind.cathy.platform.feature/org.xmind.cathy.platform.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/releng/org.xmind.cathy.product/org.xmind.cathy.product.iml" filepath="$PROJECT_DIR$/releng/org.xmind.cathy.product/org.xmind.cathy.product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/org.xmind.cathy.releng.iml" filepath="$PROJECT_DIR$/org.xmind.cathy.releng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/releng/org.xmind.cathy.repository/org.xmind.cathy.repository.iml" filepath="$PROJECT_DIR$/releng/org.xmind.cathy.repository/org.xmind.cathy.repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.cathy.win32/org.xmind.cathy.win32.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.cathy.win32/org.xmind.cathy.win32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.core/org.xmind.core.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.core/org.xmind.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.core.command/org.xmind.core.command.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.core.command/org.xmind.core.command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.core.command.remote/org.xmind.core.command.remote.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.core.command.remote/org.xmind.core.command.remote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.core.command.remote.lan/org.xmind.core.command.remote.lan.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.core.command.remote.lan/org.xmind.core.command.remote.lan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.core.io/org.xmind.core.io.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.core.io/org.xmind.core.io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.core.net/org.xmind.core.net.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.core.net/org.xmind.core.net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.core.runtime/org.xmind.core.runtime.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.core.runtime/org.xmind.core.runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.core.sharing.localnetwork/org.xmind.core.sharing.localnetwork.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.core.sharing.localnetwork/org.xmind.core.sharing.localnetwork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.de.erichseifert.vectorgraphics2d/org.xmind.de.erichseifert.vectorgraphics2d.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.de.erichseifert.vectorgraphics2d/org.xmind.de.erichseifert.vectorgraphics2d.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.gef/org.xmind.gef.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.gef/org.xmind.gef.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.gef.ui/org.xmind.gef.ui.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.gef.ui/org.xmind.gef.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/org.xmind.graphicsio.feature/org.xmind.graphicsio.feature.iml" filepath="$PROJECT_DIR$/features/org.xmind.graphicsio.feature/org.xmind.graphicsio.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/org.xmind.hebe.feature/org.xmind.hebe.feature.iml" filepath="$PROJECT_DIR$/features/org.xmind.hebe.feature/org.xmind.hebe.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.neuquant/org.xmind.neuquant.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.neuquant/org.xmind.neuquant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.org.freehep.vectorgraphics/org.xmind.org.freehep.vectorgraphics.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.org.freehep.vectorgraphics/org.xmind.org.freehep.vectorgraphics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/org.xmind.share.biggerplate.feature/org.xmind.share.biggerplate.feature.iml" filepath="$PROJECT_DIR$/features/org.xmind.share.biggerplate.feature/org.xmind.share.biggerplate.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/org.xmind.share.evernote.feature/org.xmind.share.evernote.feature.iml" filepath="$PROJECT_DIR$/features/org.xmind.share.evernote.feature/org.xmind.share.evernote.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/org.xmind.share.localnetwork.feature/org.xmind.share.localnetwork.feature.iml" filepath="$PROJECT_DIR$/features/org.xmind.share.localnetwork.feature/org.xmind.share.localnetwork.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/org.xmind.share.xmindnet.feature/org.xmind.share.xmindnet.feature.iml" filepath="$PROJECT_DIR$/features/org.xmind.share.xmindnet.feature/org.xmind.share.xmindnet.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.ui/org.xmind.ui.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.ui/org.xmind.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.ui.biggerplate/org.xmind.ui.biggerplate.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.ui.biggerplate/org.xmind.ui.biggerplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.ui.browser/org.xmind.ui.browser.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.ui.browser/org.xmind.ui.browser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.ui.dashboard/org.xmind.ui.dashboard.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.ui.dashboard/org.xmind.ui.dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.ui.evernote/org.xmind.ui.evernote.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.ui.evernote/org.xmind.ui.evernote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.ui.fishbone/org.xmind.ui.fishbone.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.ui.fishbone/org.xmind.ui.fishbone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.ui.imports/org.xmind.ui.imports.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.ui.imports/org.xmind.ui.imports.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.ui.menus/org.xmind.ui.menus.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.ui.menus/org.xmind.ui.menus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.ui.mindmap/org.xmind.ui.mindmap.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.ui.mindmap/org.xmind.ui.mindmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.ui.resources/org.xmind.ui.resources.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.ui.resources/org.xmind.ui.resources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.ui.sharing/org.xmind.ui.sharing.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.ui.sharing/org.xmind.ui.sharing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.ui.spelling/org.xmind.ui.spelling.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.ui.spelling/org.xmind.ui.spelling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.ui.spreadsheet/org.xmind.ui.spreadsheet.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.ui.spreadsheet/org.xmind.ui.spreadsheet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bundles/org.xmind.ui.toolkit/org.xmind.ui.toolkit.iml" filepath="$PROJECT_DIR$/bundles/org.xmind.ui.toolkit/org.xmind.ui.toolkit.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/net.xmind.share" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/net.xmind.signin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/net.xmind.workbench" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.cathy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.cathy.fonts" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.cathy.win32" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.core.command" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.core.command.remote" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.core.command.remote.lan" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.core.io" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.core.net" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.core.runtime" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.core.sharing.localnetwork" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.de.erichseifert.vectorgraphics2d" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.gef" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.gef.ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.neuquant" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.org.freehep.vectorgraphics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.ui" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.ui.biggerplate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.ui.browser" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.ui.dashboard" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.ui.evernote" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.ui.fishbone" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.ui.imports" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.ui.menus" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.ui.mindmap" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.ui.resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.ui.sharing" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.ui.spelling" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.ui.spreadsheet" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bundles/org.xmind.ui.toolkit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/features/net.xmind.workbench.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/features/org.xmind.cathy.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/features/org.xmind.cathy.platform.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/features/org.xmind.graphicsio.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/features/org.xmind.hebe.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/features/org.xmind.share.biggerplate.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/features/org.xmind.share.evernote.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/features/org.xmind.share.localnetwork.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/features/org.xmind.share.xmindnet.feature" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/releng/org.xmind.cathy.product" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/releng/org.xmind.cathy.repository" charset="UTF-8" />
+  </component>
+</project>

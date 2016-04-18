@@ -1,0 +1,554 @@
+[INFO] Scanning for projects...
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.share\pom.xml
+[INFO] Fetching p2.index from http://download.eclipse.org/eclipse/updates/4.5/R-4.5.1-201509040015/ (0B at 0B/s)
+[INFO] Adding repository http://download.eclipse.org/eclipse/updates/4.5/R-4.5.1-201509040015
+[INFO] Adding repository http://download.eclipse.org/tools/gef/updates/releases/3.10.1_gef-maintenance_1205
+[INFO] Adding repository http://p2.xmind.net/updates/xmind/R3.6.1.201512240104/orbit
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.share\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.share\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.signin:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.signin\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:net.xmind.signin:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.signin\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:net.xmind.signin:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.signin\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.workbench:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.workbench\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:net.xmind.workbench:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.workbench\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:net.xmind.workbench:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\net.xmind.workbench\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.cathy:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.fonts:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy.fonts\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.fonts:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy.fonts\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.fonts:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy.fonts\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.win32:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy.win32\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.win32:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy.win32\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.win32:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.cathy.win32\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.command:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote.lan:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote.lan\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote.lan:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote.lan\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote.lan:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote.lan\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.io:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.io\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.io:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.io\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.io:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.io\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.net:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.net\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.net:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.net\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.net:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.net\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.runtime:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.runtime\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.runtime:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.runtime\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.runtime:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.runtime\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.sharing.localnetwork:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.sharing.localnetwork\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.sharing.localnetwork:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.sharing.localnetwork\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.sharing.localnetwork:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.core.sharing.localnetwork\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.orbit:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.de.erichseifert.vectorgraphics2d\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.orbit:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.de.erichseifert.vectorgraphics2d\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.orbit:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.de.erichseifert.vectorgraphics2d\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.gef:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.gef\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.gef:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.gef\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.gef:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.gef\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.gef.ui:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.gef.ui\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.gef.ui:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.gef.ui\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.gef.ui:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.gef.ui\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.neuquant:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.neuquant\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.neuquant:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.neuquant\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.neuquant:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.neuquant\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.orbit:org.xmind.org.freehep.vectorgraphics:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.org.freehep.vectorgraphics\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.orbit:org.xmind.org.freehep.vectorgraphics:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.org.freehep.vectorgraphics\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.orbit:org.xmind.org.freehep.vectorgraphics:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.org.freehep.vectorgraphics\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.biggerplate:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.biggerplate\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.biggerplate:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.biggerplate\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.biggerplate:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.biggerplate\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.browser:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.browser\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.browser:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.browser\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.browser:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.browser\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.dashboard:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.dashboard\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.dashboard:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.dashboard\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.dashboard:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.dashboard\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.evernote:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.evernote\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.evernote:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.evernote\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.evernote:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.evernote\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.fishbone:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.fishbone\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.fishbone:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.fishbone\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.fishbone:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.fishbone\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.imports:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.imports\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.imports:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.imports\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.imports:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.imports\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.menus:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.menus\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.menus:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.menus\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.menus:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.menus\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.mindmap:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.mindmap\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.mindmap:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.mindmap\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.mindmap:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.mindmap\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.resources:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.resources\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.resources:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.resources\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.resources:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.resources\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.sharing:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.sharing\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.sharing:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.sharing\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.sharing:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.sharing\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spelling:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.spelling\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spelling:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.spelling\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spelling:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.spelling\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spreadsheet:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.spreadsheet\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spreadsheet:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.spreadsheet\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spreadsheet:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.spreadsheet\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.toolkit:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.toolkit\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.toolkit:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.toolkit\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.toolkit:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\bundles\org.xmind.ui.toolkit\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.cathy.platform.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.cathy.platform.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.cathy.platform.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.cathy.platform.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.cathy.platform.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.cathy.platform.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.hebe.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.hebe.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.hebe.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.hebe.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.hebe.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.hebe.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.cathy.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.cathy.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.cathy.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.cathy.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.cathy.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.cathy.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:net.xmind.workbench.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\net.xmind.workbench.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:net.xmind.workbench.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\net.xmind.workbench.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:net.xmind.workbench.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\net.xmind.workbench.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.biggerplate.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.biggerplate.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.biggerplate.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.biggerplate.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.biggerplate.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.biggerplate.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.evernote.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.evernote.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.evernote.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.evernote.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.evernote.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.evernote.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.localnetwork.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.localnetwork.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.localnetwork.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.localnetwork.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.localnetwork.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.localnetwork.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.xmindnet.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.xmindnet.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.xmindnet.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.xmindnet.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.xmindnet.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.share.xmindnet.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.graphicsio.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.graphicsio.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.graphicsio.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.graphicsio.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.graphicsio.feature:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\features\org.xmind.graphicsio.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.releng:org.xmind.cathy.repository:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\releng\org.xmind.cathy.repository\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.releng:org.xmind.cathy.repository:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\releng\org.xmind.cathy.repository\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.releng:org.xmind.cathy.repository:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\releng\org.xmind.cathy.repository\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.releng:org.xmind.cathy.product:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\releng\org.xmind.cathy.product\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.releng:org.xmind.cathy.product:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\releng\org.xmind.cathy.product\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.releng:org.xmind.cathy.product:3.6.1-SNAPSHOT @ E:\websync\GIT\xmind\releng\org.xmind.cathy.product\pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO] 
+[INFO] org.xmind.cathy.releng
+[INFO] org.xmind.core.command
+[INFO] org.xmind.core
+[INFO] org.xmind.core.runtime
+[INFO] org.xmind.neuquant
+[INFO] org.xmind.gef
+[INFO] org.xmind.ui.toolkit
+[INFO] org.xmind.gef.ui
+[INFO] org.xmind.ui.browser
+[INFO] org.xmind.ui.spelling
+[INFO] org.xmind.ui.mindmap
+[INFO] org.xmind.ui
+[INFO] org.xmind.core.net
+[INFO] net.xmind.signin
+[INFO] net.xmind.share
+[INFO] net.xmind.workbench
+[INFO] org.xmind.core.io
+[INFO] org.xmind.ui.imports
+[INFO] org.xmind.core.command.remote
+[INFO] org.xmind.ui.dashboard
+[INFO] org.xmind.cathy
+[INFO] org.xmind.cathy.fonts
+[INFO] org.xmind.cathy.win32
+[INFO] org.xmind.core.command.remote.lan
+[INFO] org.xmind.core.sharing.localnetwork
+[INFO] org.xmind.de.erichseifert.vectorgraphics2d
+[INFO] org.xmind.org.freehep.vectorgraphics
+[INFO] org.xmind.ui.biggerplate
+[INFO] org.xmind.ui.evernote
+[INFO] org.xmind.ui.fishbone
+[INFO] org.xmind.ui.menus
+[INFO] org.xmind.ui.resources
+[INFO] org.xmind.ui.sharing
+[INFO] org.xmind.ui.spreadsheet
+[INFO] org.xmind.cathy.platform.feature
+[INFO] org.xmind.hebe.feature
+[INFO] org.xmind.cathy.feature
+[INFO] net.xmind.workbench.feature
+[INFO] org.xmind.share.biggerplate.feature
+[INFO] org.xmind.share.evernote.feature
+[INFO] org.xmind.share.localnetwork.feature
+[INFO] org.xmind.share.xmindnet.feature
+[INFO] org.xmind.graphicsio.feature
+[INFO] org.xmind.cathy.repository
+[INFO] org.xmind.cathy.product
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.releng 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy.releng ---
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.command 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.command ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.core.command\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.core\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.runtime 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.runtime ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.core.runtime\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.neuquant 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.neuquant ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.neuquant\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.gef 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.gef ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.gef\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.toolkit 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.toolkit ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.ui.toolkit\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.gef.ui 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.gef.ui ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.gef.ui\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.browser 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.browser ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.ui.browser\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.spelling 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.spelling ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.ui.spelling\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.mindmap 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.mindmap ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.ui.mindmap\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.ui\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.net 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.net ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.core.net\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building net.xmind.signin 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ net.xmind.signin ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\net.xmind.signin\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building net.xmind.share 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ net.xmind.share ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\net.xmind.share\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building net.xmind.workbench 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ net.xmind.workbench ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\net.xmind.workbench\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.io 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.io ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.core.io\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.imports 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.imports ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.ui.imports\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.command.remote 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.command.remote ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.dashboard 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.dashboard ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.ui.dashboard\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.cathy\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.fonts 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy.fonts ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.cathy.fonts\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.win32 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy.win32 ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.cathy.win32\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.command.remote.lan 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.command.remote.lan ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.core.command.remote.lan\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.sharing.localnetwork 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.sharing.localnetwork ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.core.sharing.localnetwork\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.de.erichseifert.vectorgraphics2d 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.de.erichseifert.vectorgraphics2d ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.de.erichseifert.vectorgraphics2d\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.org.freehep.vectorgraphics 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.org.freehep.vectorgraphics ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.org.freehep.vectorgraphics\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.biggerplate 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.biggerplate ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.ui.biggerplate\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.evernote 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.evernote ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.ui.evernote\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.fishbone 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.fishbone ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.ui.fishbone\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.menus 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.menus ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.ui.menus\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.resources 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.resources ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.ui.resources\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.sharing 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.sharing ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.ui.sharing\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.spreadsheet 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.spreadsheet ---
+[INFO] Deleting E:\websync\GIT\xmind\bundles\org.xmind.ui.spreadsheet\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.platform.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy.platform.feature ---
+[INFO] Deleting E:\websync\GIT\xmind\features\org.xmind.cathy.platform.feature\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.hebe.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.hebe.feature ---
+[INFO] Deleting E:\websync\GIT\xmind\features\org.xmind.hebe.feature\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy.feature ---
+[INFO] Deleting E:\websync\GIT\xmind\features\org.xmind.cathy.feature\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building net.xmind.workbench.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ net.xmind.workbench.feature ---
+[INFO] Deleting E:\websync\GIT\xmind\features\net.xmind.workbench.feature\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.share.biggerplate.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.share.biggerplate.feature ---
+[INFO] Deleting E:\websync\GIT\xmind\features\org.xmind.share.biggerplate.feature\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.share.evernote.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.share.evernote.feature ---
+[INFO] Deleting E:\websync\GIT\xmind\features\org.xmind.share.evernote.feature\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.share.localnetwork.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.share.localnetwork.feature ---
+[INFO] Deleting E:\websync\GIT\xmind\features\org.xmind.share.localnetwork.feature\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.share.xmindnet.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.share.xmindnet.feature ---
+[INFO] Deleting E:\websync\GIT\xmind\features\org.xmind.share.xmindnet.feature\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.graphicsio.feature 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.graphicsio.feature ---
+[INFO] Deleting E:\websync\GIT\xmind\features\org.xmind.graphicsio.feature\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.repository 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy.repository ---
+[INFO] Deleting E:\websync\GIT\xmind\releng\org.xmind.cathy.repository\target
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.product 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy.product ---
+[INFO] Deleting E:\websync\GIT\xmind\releng\org.xmind.cathy.product\target
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO] 
+[INFO] org.xmind.cathy.releng ............................. SUCCESS [  0.037 s]
+[INFO] org.xmind.core.command ............................. SUCCESS [  0.010 s]
+[INFO] org.xmind.core ..................................... SUCCESS [  0.200 s]
+[INFO] org.xmind.core.runtime ............................. SUCCESS [  0.011 s]
+[INFO] org.xmind.neuquant ................................. SUCCESS [  0.005 s]
+[INFO] org.xmind.gef ...................................... SUCCESS [  0.376 s]
+[INFO] org.xmind.ui.toolkit ............................... SUCCESS [  0.868 s]
+[INFO] org.xmind.gef.ui ................................... SUCCESS [  0.032 s]
+[INFO] org.xmind.ui.browser ............................... SUCCESS [  0.020 s]
+[INFO] org.xmind.ui.spelling .............................. SUCCESS [  0.275 s]
+[INFO] org.xmind.ui.mindmap ............................... SUCCESS [  3.216 s]
+[INFO] org.xmind.ui ....................................... SUCCESS [  0.006 s]
+[INFO] org.xmind.core.net ................................. SUCCESS [  0.007 s]
+[INFO] net.xmind.signin ................................... SUCCESS [  0.146 s]
+[INFO] net.xmind.share .................................... SUCCESS [  0.012 s]
+[INFO] net.xmind.workbench ................................ SUCCESS [  0.015 s]
+[INFO] org.xmind.core.io .................................. SUCCESS [  0.007 s]
+[INFO] org.xmind.ui.imports ............................... SUCCESS [  0.011 s]
+[INFO] org.xmind.core.command.remote ...................... SUCCESS [  0.012 s]
+[INFO] org.xmind.ui.dashboard ............................. SUCCESS [  0.006 s]
+[INFO] org.xmind.cathy .................................... SUCCESS [  0.667 s]
+[INFO] org.xmind.cathy.fonts .............................. SUCCESS [  0.003 s]
+[INFO] org.xmind.cathy.win32 .............................. SUCCESS [  0.007 s]
+[INFO] org.xmind.core.command.remote.lan .................. SUCCESS [  0.009 s]
+[INFO] org.xmind.core.sharing.localnetwork ................ SUCCESS [  0.008 s]
+[INFO] org.xmind.de.erichseifert.vectorgraphics2d ......... SUCCESS [  0.006 s]
+[INFO] org.xmind.org.freehep.vectorgraphics ............... SUCCESS [  0.019 s]
+[INFO] org.xmind.ui.biggerplate ........................... SUCCESS [  0.012 s]
+[INFO] org.xmind.ui.evernote .............................. SUCCESS [  0.012 s]
+[INFO] org.xmind.ui.fishbone .............................. SUCCESS [  0.010 s]
+[INFO] org.xmind.ui.menus ................................. SUCCESS [  0.005 s]
+[INFO] org.xmind.ui.resources ............................. SUCCESS [  0.004 s]
+[INFO] org.xmind.ui.sharing ............................... SUCCESS [  0.506 s]
+[INFO] org.xmind.ui.spreadsheet ........................... SUCCESS [  0.011 s]
+[INFO] org.xmind.cathy.platform.feature ................... SUCCESS [  0.003 s]
+[INFO] org.xmind.hebe.feature ............................. SUCCESS [  0.004 s]
+[INFO] org.xmind.cathy.feature ............................ SUCCESS [  0.002 s]
+[INFO] net.xmind.workbench.feature ........................ SUCCESS [  0.002 s]
+[INFO] org.xmind.share.biggerplate.feature ................ SUCCESS [  0.003 s]
+[INFO] org.xmind.share.evernote.feature ................... SUCCESS [  0.002 s]
+[INFO] org.xmind.share.localnetwork.feature ............... SUCCESS [  0.003 s]
+[INFO] org.xmind.share.xmindnet.feature ................... SUCCESS [  0.003 s]
+[INFO] org.xmind.graphicsio.feature ....................... SUCCESS [  0.002 s]
+[INFO] org.xmind.cathy.repository ......................... SUCCESS [  0.276 s]
+[INFO] org.xmind.cathy.product ............................ SUCCESS [  0.332 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 16.686 s
+[INFO] Finished at: 2016-04-15T17:18:18+01:00
+[INFO] Final Memory: 57M/759M
+[INFO] ------------------------------------------------------------------------

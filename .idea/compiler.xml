@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="net.xmind.share" />
+        <module name="net.xmind.signin" />
+        <module name="net.xmind.workbench" />
+        <module name="net.xmind.workbench.feature" />
+        <module name="org.xmind.cathy" />
+        <module name="org.xmind.cathy.feature" />
+        <module name="org.xmind.cathy.fonts" />
+        <module name="org.xmind.cathy.platform.feature" />
+        <module name="org.xmind.cathy.product" />
+        <module name="org.xmind.cathy.repository" />
+        <module name="org.xmind.cathy.win32" />
+        <module name="org.xmind.core" />
+        <module name="org.xmind.core.command" />
+        <module name="org.xmind.core.command.remote" />
+        <module name="org.xmind.core.command.remote.lan" />
+        <module name="org.xmind.core.io" />
+        <module name="org.xmind.core.net" />
+        <module name="org.xmind.core.runtime" />
+        <module name="org.xmind.core.sharing.localnetwork" />
+        <module name="org.xmind.de.erichseifert.vectorgraphics2d" />
+        <module name="org.xmind.gef" />
+        <module name="org.xmind.gef.ui" />
+        <module name="org.xmind.graphicsio.feature" />
+        <module name="org.xmind.hebe.feature" />
+        <module name="org.xmind.neuquant" />
+        <module name="org.xmind.org.freehep.vectorgraphics" />
+        <module name="org.xmind.share.biggerplate.feature" />
+        <module name="org.xmind.share.evernote.feature" />
+        <module name="org.xmind.share.localnetwork.feature" />
+        <module name="org.xmind.share.xmindnet.feature" />
+        <module name="org.xmind.ui" />
+        <module name="org.xmind.ui.biggerplate" />
+        <module name="org.xmind.ui.browser" />
+        <module name="org.xmind.ui.dashboard" />
+        <module name="org.xmind.ui.evernote" />
+        <module name="org.xmind.ui.fishbone" />
+        <module name="org.xmind.ui.imports" />
+        <module name="org.xmind.ui.menus" />
+        <module name="org.xmind.ui.mindmap" />
+        <module name="org.xmind.ui.resources" />
+        <module name="org.xmind.ui.sharing" />
+        <module name="org.xmind.ui.spelling" />
+        <module name="org.xmind.ui.spreadsheet" />
+        <module name="org.xmind.ui.toolkit" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="net.xmind.share" target="1.5" />
+      <module name="net.xmind.signin" target="1.5" />
+      <module name="net.xmind.workbench" target="1.5" />
+      <module name="net.xmind.workbench.feature" target="1.5" />
+      <module name="org.xmind.cathy" target="1.5" />
+      <module name="org.xmind.cathy.feature" target="1.5" />
+      <module name="org.xmind.cathy.fonts" target="1.5" />
+      <module name="org.xmind.cathy.platform.feature" target="1.5" />
+      <module name="org.xmind.cathy.product" target="1.5" />
+      <module name="org.xmind.cathy.releng" target="1.5" />
+      <module name="org.xmind.cathy.repository" target="1.5" />
+      <module name="org.xmind.cathy.win32" target="1.5" />
+      <module name="org.xmind.core" target="1.5" />
+      <module name="org.xmind.core.command" target="1.5" />
+      <module name="org.xmind.core.command.remote" target="1.5" />
+      <module name="org.xmind.core.command.remote.lan" target="1.5" />
+      <module name="org.xmind.core.io" target="1.5" />
+      <module name="org.xmind.core.net" target="1.5" />
+      <module name="org.xmind.core.runtime" target="1.5" />
+      <module name="org.xmind.core.sharing.localnetwork" target="1.5" />
+      <module name="org.xmind.de.erichseifert.vectorgraphics2d" target="1.5" />
+      <module name="org.xmind.gef" target="1.5" />
+      <module name="org.xmind.gef.ui" target="1.5" />
+      <module name="org.xmind.graphicsio.feature" target="1.5" />
+      <module name="org.xmind.hebe.feature" target="1.5" />
+      <module name="org.xmind.neuquant" target="1.5" />
+      <module name="org.xmind.org.freehep.vectorgraphics" target="1.5" />
+      <module name="org.xmind.share.biggerplate.feature" target="1.5" />
+      <module name="org.xmind.share.evernote.feature" target="1.5" />
+      <module name="org.xmind.share.localnetwork.feature" target="1.5" />
+      <module name="org.xmind.share.xmindnet.feature" target="1.5" />
+      <module name="org.xmind.ui" target="1.5" />
+      <module name="org.xmind.ui.biggerplate" target="1.5" />
+      <module name="org.xmind.ui.browser" target="1.5" />
+      <module name="org.xmind.ui.dashboard" target="1.5" />
+      <module name="org.xmind.ui.evernote" target="1.5" />
+      <module name="org.xmind.ui.fishbone" target="1.5" />
+      <module name="org.xmind.ui.imports" target="1.5" />
+      <module name="org.xmind.ui.menus" target="1.5" />
+      <module name="org.xmind.ui.mindmap" target="1.5" />
+      <module name="org.xmind.ui.resources" target="1.5" />
+      <module name="org.xmind.ui.sharing" target="1.5" />
+      <module name="org.xmind.ui.spelling" target="1.5" />
+      <module name="org.xmind.ui.spreadsheet" target="1.5" />
+      <module name="org.xmind.ui.toolkit" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
