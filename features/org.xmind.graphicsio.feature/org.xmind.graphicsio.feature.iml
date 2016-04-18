@@ -8,5 +8,23 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Maven: p2.eclipse-plugin:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1.201604180704">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/xmind/orbit/org.xmind.de.erichseifert.vectorgraphics2d/3.6.1-SNAPSHOT/org.xmind.de.erichseifert.vectorgraphics2d-3.6.1-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Maven: p2.eclipse-plugin:org.xmind.org.freehep.vectorgraphics:3.6.1.201604180704">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/xmind/orbit/org.xmind.org.freehep.vectorgraphics/3.6.1-SNAPSHOT/org.xmind.org.freehep.vectorgraphics-3.6.1-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

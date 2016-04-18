@@ -8,5 +8,14 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Maven: p2.eclipse-plugin:org.xmind.core:3.6.1.201604180704">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/xmind/cathy/plugins/org.xmind.core/3.6.1-SNAPSHOT/org.xmind.core-3.6.1-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>

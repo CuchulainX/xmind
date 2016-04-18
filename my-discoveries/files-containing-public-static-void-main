@@ -1,0 +1,65 @@
+Searching 2987 files for "public static void main(" (regex)
+
+Unmatched marking parenthesis ( or \(.  The error occurred while parsing the regular expression fragment: 'void main(>>>HERE>>>'. in regular expression public static void main(
+
+0 matches
+
+Searching 2987 files for "public static void main"
+
+E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core\test\org\xmind\core\test\CompressionTest.java:
+  115      }
+  116  
+  117:     public static void main(String[] args) {
+  118          new CompressionTest().run();
+  119      }
+
+E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.runtime\src\org\xmind\core\internal\security\Base64.java:
+  214              40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 22, 23, 24, 25 };
+  215  
+  216:     public static void main(String args[]) {
+  217          int numRuns = Integer.parseInt(args[0]);
+  218          int numBytes = Integer.parseInt(args[1]);
+
+E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.sharing.localnetwork\src\org\xmind\core\internal\sharing\Base64.java:
+  214              40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 22, 23, 24, 25 };
+  215  
+  216:     public static void main(String args[]) {
+  217          int numRuns = Integer.parseInt(args[0]);
+  218          int numBytes = Integer.parseInt(args[1]);
+
+E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.org.freehep.vectorgraphics\src\org\xmind\org\freehep\graphics2d\TagHandler.java:
+  147  
+  148      @SuppressWarnings("nls")
+  149:     public static void main(String[] args) {
+  150          String text = "&lt;Vector<sup><b>Graphics</b></sup> &amp; Card<i><sub>Adapter</sub></i>&gt;";
+  151  
+
+E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.mindmap\src\org\xmind\ui\internal\editor\IMESupport.java:
+  514  //    }
+  515  
+  516: //    public static void main(String[] args) {
+  517  //        final Display display = new Display();
+  518  //        final Shell shell = new Shell(display);
+
+E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.mindmap\src\org\xmind\ui\internal\protocols\FilePathParser.java:
+  527  
+  528      @SuppressWarnings("nls")
+  529:     public static void main(String[] args) {
+  530          String absolutePath = "C:/bb/11/11/11/11/11";
+  531          String base = "C:/bb";
+
+E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.toolkit\src\org\xmind\ui\dialogs\NotificationWindow.java:
+  644      }
+  645  
+  646:     public static void main(String[] args) {
+  647          Display.setAppName("Main"); //$NON-NLS-1$
+  648          Display display = new Display();
+
+E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.toolkit\src\org\xmind\ui\resources\FontUtils.java:
+  803       * @param args
+  804       */
+  805: //    public static void main(String[] args) {
+  806  //        Set<String> swtFontSet = new HashSet<String>();
+  807  //
+
+8 matches across 8 files

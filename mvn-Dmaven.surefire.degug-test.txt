@@ -1,0 +1,1065 @@
+PS E:\~SANDBOX\JAVA\xmind-intelliJ> mvn -Dmaven.surefire.debug test
+[INFO] Scanning for projects...
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\net.xmind.share\pom.xml
+[INFO] Fetching p2.index from http://download.eclipse.org/eclipse/updates/4.5/R-4.5.1-201509040015/ (0B at 0B/s)
+[INFO] Adding repository http://download.eclipse.org/eclipse/updates/4.5/R-4.5.1-201509040015
+[INFO] Adding repository http://download.eclipse.org/tools/gef/updates/releases/3.10.1_gef-maintenance_1205
+[INFO] Adding repository http://p2.xmind.net/updates/xmind/R3.6.1.201512240104/orbit
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA
+\xmind-intelliJ\bundles\net.xmind.share\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\x
+mind-intelliJ\bundles\net.xmind.share\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.signin:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\net.xmind.signin\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:net.xmind.signin:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAV
+A\xmind-intelliJ\bundles\net.xmind.signin\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:net.xmind.signin:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\
+xmind-intelliJ\bundles\net.xmind.signin\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.workbench:3.6.1-SNAPSHOT @ E:\~SAND
+BOX\JAVA\xmind-intelliJ\bundles\net.xmind.workbench\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:net.xmind.workbench:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\net.xmind.workbench\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:net.xmind.workbench:3.6.1-SNAPSHOT @ E:\~SANDBOX\JA
+VA\xmind-intelliJ\bundles\net.xmind.workbench\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.cathy:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\org.xmind.cathy\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA
+\xmind-intelliJ\bundles\org.xmind.cathy\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\x
+mind-intelliJ\bundles\org.xmind.cathy\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.fonts:3.6.1-SNAPSHOT @ E:\~SA
+NDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.cathy.fonts\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.fonts:3.6.1-SNAPSHOT @ E:\~SANDBO
+X\JAVA\xmind-intelliJ\bundles\org.xmind.cathy.fonts\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.fonts:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\org.xmind.cathy.fonts\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.win32:3.6.1-SNAPSHOT @ E:\~SA
+NDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.cathy.win32\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.win32:3.6.1-SNAPSHOT @ E:\~SANDBO
+X\JAVA\xmind-intelliJ\bundles\org.xmind.cathy.win32\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.win32:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\org.xmind.cathy.win32\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.core\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\
+xmind-intelliJ\bundles\org.xmind.core\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xm
+ind-intelliJ\bundles\org.xmind.core\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.command:3.6.1-SNAPSHOT @ E:\~S
+ANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.core.command\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote:3.6.1-SNAPSHOT
+@ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command.remote\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote:3.6.1-SNAPSHOT @ E:
+\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command.remote\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote:3.6.1-SNAPSHOT @ E:\~
+SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command.remote\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote.lan:3.6.1-SNAPS
+HOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command.remote.lan\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote.lan:3.6.1-SNAPSHOT
+@ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command.remote.lan\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote.lan:3.6.1-SNAPSHOT @
+E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command.remote.lan\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.io:3.6.1-SNAPSHOT @ E:\~SANDBO
+X\JAVA\xmind-intelliJ\bundles\org.xmind.core.io\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.io:3.6.1-SNAPSHOT @ E:\~SANDBOX\JA
+VA\xmind-intelliJ\bundles\org.xmind.core.io\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.io:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA
+\xmind-intelliJ\bundles\org.xmind.core.io\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.net:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.core.net\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.net:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.core.net\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.net:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAV
+A\xmind-intelliJ\bundles\org.xmind.core.net\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.runtime:3.6.1-SNAPSHOT @ E:\~S
+ANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.runtime\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.runtime:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.core.runtime\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.runtime:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.core.runtime\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.sharing.localnetwork:3.6.1-SNA
+PSHOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.sharing.localnetwork\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.sharing.localnetwork:3.6.1-SNAPSHO
+T @ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.sharing.localnetwork\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.sharing.localnetwork:3.6.1-SNAPSHOT
+@ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.sharing.localnetwork\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.orbit:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1-SNAP
+SHOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.de.erichseifert.vectorgraphics2d\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.orbit:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1-SNAPSHOT
+ @ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.de.erichseifert.vectorgraphics2d\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.orbit:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1-SNAPSHOT @
+ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.de.erichseifert.vectorgraphics2d\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.gef:3.6.1-SNAPSHOT @ E:\~SANDBOX\JA
+VA\xmind-intelliJ\bundles\org.xmind.gef\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.gef:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\x
+mind-intelliJ\bundles\org.xmind.gef\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.gef:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmi
+nd-intelliJ\bundles\org.xmind.gef\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.gef.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.gef.ui\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.gef.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAV
+A\xmind-intelliJ\bundles\org.xmind.gef.ui\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.gef.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\
+xmind-intelliJ\bundles\org.xmind.gef.ui\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.neuquant:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.neuquant\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.neuquant:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.neuquant\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.neuquant:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAV
+A\xmind-intelliJ\bundles\org.xmind.neuquant\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.orbit:org.xmind.org.freehep.vectorgraphics:3.6.1-SNAPSHOT @
+ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.org.freehep.vectorgraphics\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.orbit:org.xmind.org.freehep.vectorgraphics:3.6.1-SNAPSHOT @ E:\
+~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.org.freehep.vectorgraphics\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.orbit:org.xmind.org.freehep.vectorgraphics:3.6.1-SNAPSHOT @ E:\~S
+ANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.org.freehep.vectorgraphics\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAV
+A\xmind-intelliJ\bundles\org.xmind.ui\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xm
+ind-intelliJ\bundles\org.xmind.ui\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmin
+d-intelliJ\bundles\org.xmind.ui\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.biggerplate:3.6.1-SNAPSHOT @ E:\
+~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.biggerplate\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.biggerplate:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.biggerplate\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.biggerplate:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.biggerplate\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.browser:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.browser\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.browser:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.ui.browser\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.browser:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.ui.browser\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.dashboard:3.6.1-SNAPSHOT @ E:\~S
+ANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.dashboard\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.dashboard:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.dashboard\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.dashboard:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.ui.dashboard\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.evernote:3.6.1-SNAPSHOT @ E:\~SA
+NDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.evernote\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.evernote:3.6.1-SNAPSHOT @ E:\~SANDBO
+X\JAVA\xmind-intelliJ\bundles\org.xmind.ui.evernote\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.evernote:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\org.xmind.ui.evernote\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.fishbone:3.6.1-SNAPSHOT @ E:\~SA
+NDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.fishbone\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.fishbone:3.6.1-SNAPSHOT @ E:\~SANDBO
+X\JAVA\xmind-intelliJ\bundles\org.xmind.ui.fishbone\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.fishbone:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\org.xmind.ui.fishbone\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.imports:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.imports\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.imports:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.ui.imports\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.imports:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.ui.imports\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.menus:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.menus\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.menus:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.ui.menus\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.menus:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAV
+A\xmind-intelliJ\bundles\org.xmind.ui.menus\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.mindmap:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.mindmap\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.mindmap:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.ui.mindmap\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.mindmap:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.ui.mindmap\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.resources:3.6.1-SNAPSHOT @ E:\~S
+ANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.resources\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.resources:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.resources\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.resources:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.ui.resources\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.sharing:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.sharing\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.sharing:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.ui.sharing\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.sharing:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.ui.sharing\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spelling:3.6.1-SNAPSHOT @ E:\~SA
+NDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.spelling\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spelling:3.6.1-SNAPSHOT @ E:\~SANDBO
+X\JAVA\xmind-intelliJ\bundles\org.xmind.ui.spelling\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spelling:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\org.xmind.ui.spelling\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spreadsheet:3.6.1-SNAPSHOT @ E:\
+~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.spreadsheet\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spreadsheet:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.spreadsheet\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spreadsheet:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.spreadsheet\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.toolkit:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.toolkit\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.toolkit:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.ui.toolkit\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.toolkit:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.ui.toolkit\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.cathy.platform.feature:3.6.1-SNAPS
+HOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.cathy.platform.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.cathy.platform.feature:3.6.1-SNAPSHOT
+@ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.cathy.platform.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.cathy.platform.feature:3.6.1-SNAPSHOT @
+E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.cathy.platform.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.hebe.feature:3.6.1-SNAPSHOT @ E:\~
+SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.hebe.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.hebe.feature:3.6.1-SNAPSHOT @ E:\~SAND
+BOX\JAVA\xmind-intelliJ\features\org.xmind.hebe.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.hebe.feature:3.6.1-SNAPSHOT @ E:\~SANDBO
+X\JAVA\xmind-intelliJ\features\org.xmind.hebe.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.cathy.feature:3.6.1-SNAPSHOT @ E:\
+~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.cathy.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.cathy.feature:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\features\org.xmind.cathy.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.cathy.feature:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\features\org.xmind.cathy.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:net.xmind.workbench.feature:3.6.1-SNAPSHOT @
+ E:\~SANDBOX\JAVA\xmind-intelliJ\features\net.xmind.workbench.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:net.xmind.workbench.feature:3.6.1-SNAPSHOT @ E:\
+~SANDBOX\JAVA\xmind-intelliJ\features\net.xmind.workbench.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:net.xmind.workbench.feature:3.6.1-SNAPSHOT @ E:\~S
+ANDBOX\JAVA\xmind-intelliJ\features\net.xmind.workbench.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.biggerplate.feature:3.6.1-SN
+APSHOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.biggerplate.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.biggerplate.feature:3.6.1-SNAPSH
+OT @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.biggerplate.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.biggerplate.feature:3.6.1-SNAPSHOT
+ @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.biggerplate.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.evernote.feature:3.6.1-SNAPS
+HOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.evernote.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.evernote.feature:3.6.1-SNAPSHOT
+@ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.evernote.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.evernote.feature:3.6.1-SNAPSHOT @
+E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.evernote.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.localnetwork.feature:3.6.1-S
+NAPSHOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.localnetwork.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.localnetwork.feature:3.6.1-SNAPS
+HOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.localnetwork.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.localnetwork.feature:3.6.1-SNAPSHO
+T @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.localnetwork.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.xmindnet.feature:3.6.1-SNAPS
+HOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.xmindnet.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.xmindnet.feature:3.6.1-SNAPSHOT
+@ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.xmindnet.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.xmindnet.feature:3.6.1-SNAPSHOT @
+E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.xmindnet.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.graphicsio.feature:3.6.1-SNAPSHOT
+@ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.graphicsio.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.graphicsio.feature:3.6.1-SNAPSHOT @ E:
+\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.graphicsio.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.graphicsio.feature:3.6.1-SNAPSHOT @ E:\~
+SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.graphicsio.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.releng:org.xmind.cathy.repository:3.6.1-SNAPSHOT @ E:\~SAND
+BOX\JAVA\xmind-intelliJ\releng\org.xmind.cathy.repository\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.releng:org.xmind.cathy.repository:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\releng\org.xmind.cathy.repository\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.releng:org.xmind.cathy.repository:3.6.1-SNAPSHOT @ E:\~SANDBOX\JA
+VA\xmind-intelliJ\releng\org.xmind.cathy.repository\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.releng:org.xmind.cathy.product:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\releng\org.xmind.cathy.product\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.releng:org.xmind.cathy.product:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAV
+A\xmind-intelliJ\releng\org.xmind.cathy.product\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.releng:org.xmind.cathy.product:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\
+xmind-intelliJ\releng\org.xmind.cathy.product\pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO]
+[INFO] org.xmind.cathy.releng
+[INFO] org.xmind.core.command
+[INFO] org.xmind.core
+[INFO] org.xmind.core.runtime
+[INFO] org.xmind.neuquant
+[INFO] org.xmind.gef
+[INFO] org.xmind.ui.toolkit
+[INFO] org.xmind.gef.ui
+[INFO] org.xmind.ui.browser
+[INFO] org.xmind.ui.spelling
+[INFO] org.xmind.ui.mindmap
+[INFO] org.xmind.ui
+[INFO] org.xmind.core.net
+[INFO] net.xmind.signin
+[INFO] net.xmind.share
+[INFO] net.xmind.workbench
+[INFO] org.xmind.core.io
+[INFO] org.xmind.ui.imports
+[INFO] org.xmind.core.command.remote
+[INFO] org.xmind.ui.dashboard
+[INFO] org.xmind.cathy
+[INFO] org.xmind.cathy.fonts
+[INFO] org.xmind.cathy.win32
+[INFO] org.xmind.core.command.remote.lan
+[INFO] org.xmind.core.sharing.localnetwork
+[INFO] org.xmind.de.erichseifert.vectorgraphics2d
+[INFO] org.xmind.org.freehep.vectorgraphics
+[INFO] org.xmind.ui.biggerplate
+[INFO] org.xmind.ui.evernote
+[INFO] org.xmind.ui.fishbone
+[INFO] org.xmind.ui.menus
+[INFO] org.xmind.ui.resources
+[INFO] org.xmind.ui.sharing
+[INFO] org.xmind.ui.spreadsheet
+[INFO] org.xmind.cathy.platform.feature
+[INFO] org.xmind.hebe.feature
+[INFO] org.xmind.cathy.feature
+[INFO] net.xmind.workbench.feature
+[INFO] org.xmind.share.biggerplate.feature
+[INFO] org.xmind.share.evernote.feature
+[INFO] org.xmind.share.localnetwork.feature
+[INFO] org.xmind.share.xmindnet.feature
+[INFO] org.xmind.graphicsio.feature
+[INFO] org.xmind.cathy.repository
+[INFO] org.xmind.cathy.product
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.releng 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO]
+[INFO] org.xmind.cathy.releng ............................. FAILURE [  0.008 s]
+[INFO] org.xmind.core.command ............................. SKIPPED
+[INFO] org.xmind.core ..................................... SKIPPED
+[INFO] org.xmind.core.runtime ............................. SKIPPED
+[INFO] org.xmind.neuquant ................................. SKIPPED
+[INFO] org.xmind.gef ...................................... SKIPPED
+[INFO] org.xmind.ui.toolkit ............................... SKIPPED
+[INFO] org.xmind.gef.ui ................................... SKIPPED
+[INFO] org.xmind.ui.browser ............................... SKIPPED
+[INFO] org.xmind.ui.spelling .............................. SKIPPED
+[INFO] org.xmind.ui.mindmap ............................... SKIPPED
+[INFO] org.xmind.ui ....................................... SKIPPED
+[INFO] org.xmind.core.net ................................. SKIPPED
+[INFO] net.xmind.signin ................................... SKIPPED
+[INFO] net.xmind.share .................................... SKIPPED
+[INFO] net.xmind.workbench ................................ SKIPPED
+[INFO] org.xmind.core.io .................................. SKIPPED
+[INFO] org.xmind.ui.imports ............................... SKIPPED
+[INFO] org.xmind.core.command.remote ...................... SKIPPED
+[INFO] org.xmind.ui.dashboard ............................. SKIPPED
+[INFO] org.xmind.cathy .................................... SKIPPED
+[INFO] org.xmind.cathy.fonts .............................. SKIPPED
+[INFO] org.xmind.cathy.win32 .............................. SKIPPED
+[INFO] org.xmind.core.command.remote.lan .................. SKIPPED
+[INFO] org.xmind.core.sharing.localnetwork ................ SKIPPED
+[INFO] org.xmind.de.erichseifert.vectorgraphics2d ......... SKIPPED
+[INFO] org.xmind.org.freehep.vectorgraphics ............... SKIPPED
+[INFO] org.xmind.ui.biggerplate ........................... SKIPPED
+[INFO] org.xmind.ui.evernote .............................. SKIPPED
+[INFO] org.xmind.ui.fishbone .............................. SKIPPED
+[INFO] org.xmind.ui.menus ................................. SKIPPED
+[INFO] org.xmind.ui.resources ............................. SKIPPED
+[INFO] org.xmind.ui.sharing ............................... SKIPPED
+[INFO] org.xmind.ui.spreadsheet ........................... SKIPPED
+[INFO] org.xmind.cathy.platform.feature ................... SKIPPED
+[INFO] org.xmind.hebe.feature ............................. SKIPPED
+[INFO] org.xmind.cathy.feature ............................ SKIPPED
+[INFO] net.xmind.workbench.feature ........................ SKIPPED
+[INFO] org.xmind.share.biggerplate.feature ................ SKIPPED
+[INFO] org.xmind.share.evernote.feature ................... SKIPPED
+[INFO] org.xmind.share.localnetwork.feature ............... SKIPPED
+[INFO] org.xmind.share.xmindnet.feature ................... SKIPPED
+[INFO] org.xmind.graphicsio.feature ....................... SKIPPED
+[INFO] org.xmind.cathy.repository ......................... SKIPPED
+[INFO] org.xmind.cathy.product ............................ SKIPPED
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 8.953 s
+[INFO] Finished at: 2016-04-18T07:57:46+01:00
+[INFO] Final Memory: 62M/853M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Unknown lifecycle phase ".surefire.debug". You must specify a valid lifecycle phase or a goal in the format <plu
+gin-prefix>:<goal> or <plugin-group-id>:<plugin-artifact-id>[:<plugin-version>]:<goal>. Available lifecycle phases are:
+validate, initialize, generate-sources, process-sources, generate-resources, process-resources, compile, process-classes
+, generate-test-sources, process-test-sources, generate-test-resources, process-test-resources, test-compile, process-te
+st-classes, test, prepare-package, package, pre-integration-test, integration-test, post-integration-test, verify, insta
+ll, deploy, pre-clean, clean, post-clean, pre-site, site, post-site, site-deploy. -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/LifecyclePhaseNotFoundException
+PS E:\~SANDBOX\JAVA\xmind-intelliJ> mvn surefire:test
+[INFO] Scanning for projects...
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\net.xmind.share\pom.xml
+[INFO] Fetching p2.index from http://download.eclipse.org/eclipse/updates/4.5/R-4.5.1-201509040015/ (0B at 0B/s)
+[INFO] Adding repository http://download.eclipse.org/eclipse/updates/4.5/R-4.5.1-201509040015
+[INFO] Adding repository http://download.eclipse.org/tools/gef/updates/releases/3.10.1_gef-maintenance_1205
+[INFO] Adding repository http://p2.xmind.net/updates/xmind/R3.6.1.201512240104/orbit
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA
+\xmind-intelliJ\bundles\net.xmind.share\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\x
+mind-intelliJ\bundles\net.xmind.share\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.signin:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\net.xmind.signin\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:net.xmind.signin:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAV
+A\xmind-intelliJ\bundles\net.xmind.signin\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:net.xmind.signin:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\
+xmind-intelliJ\bundles\net.xmind.signin\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.workbench:3.6.1-SNAPSHOT @ E:\~SAND
+BOX\JAVA\xmind-intelliJ\bundles\net.xmind.workbench\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:net.xmind.workbench:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\net.xmind.workbench\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:net.xmind.workbench:3.6.1-SNAPSHOT @ E:\~SANDBOX\JA
+VA\xmind-intelliJ\bundles\net.xmind.workbench\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.cathy:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\org.xmind.cathy\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA
+\xmind-intelliJ\bundles\org.xmind.cathy\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\x
+mind-intelliJ\bundles\org.xmind.cathy\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.fonts:3.6.1-SNAPSHOT @ E:\~SA
+NDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.cathy.fonts\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.fonts:3.6.1-SNAPSHOT @ E:\~SANDBO
+X\JAVA\xmind-intelliJ\bundles\org.xmind.cathy.fonts\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.fonts:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\org.xmind.cathy.fonts\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.win32:3.6.1-SNAPSHOT @ E:\~SA
+NDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.cathy.win32\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.win32:3.6.1-SNAPSHOT @ E:\~SANDBO
+X\JAVA\xmind-intelliJ\bundles\org.xmind.cathy.win32\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.win32:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\org.xmind.cathy.win32\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.core\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\
+xmind-intelliJ\bundles\org.xmind.core\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xm
+ind-intelliJ\bundles\org.xmind.core\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.command:3.6.1-SNAPSHOT @ E:\~S
+ANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.core.command\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote:3.6.1-SNAPSHOT
+@ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command.remote\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote:3.6.1-SNAPSHOT @ E:
+\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command.remote\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote:3.6.1-SNAPSHOT @ E:\~
+SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command.remote\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote.lan:3.6.1-SNAPS
+HOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command.remote.lan\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote.lan:3.6.1-SNAPSHOT
+@ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command.remote.lan\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote.lan:3.6.1-SNAPSHOT @
+E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.command.remote.lan\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.io:3.6.1-SNAPSHOT @ E:\~SANDBO
+X\JAVA\xmind-intelliJ\bundles\org.xmind.core.io\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.io:3.6.1-SNAPSHOT @ E:\~SANDBOX\JA
+VA\xmind-intelliJ\bundles\org.xmind.core.io\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.io:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA
+\xmind-intelliJ\bundles\org.xmind.core.io\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.net:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.core.net\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.net:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.core.net\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.net:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAV
+A\xmind-intelliJ\bundles\org.xmind.core.net\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.runtime:3.6.1-SNAPSHOT @ E:\~S
+ANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.runtime\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.runtime:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.core.runtime\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.runtime:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.core.runtime\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.sharing.localnetwork:3.6.1-SNA
+PSHOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.sharing.localnetwork\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.sharing.localnetwork:3.6.1-SNAPSHO
+T @ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.sharing.localnetwork\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.sharing.localnetwork:3.6.1-SNAPSHOT
+@ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.core.sharing.localnetwork\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.orbit:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1-SNAP
+SHOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.de.erichseifert.vectorgraphics2d\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.orbit:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1-SNAPSHOT
+ @ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.de.erichseifert.vectorgraphics2d\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.orbit:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1-SNAPSHOT @
+ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.de.erichseifert.vectorgraphics2d\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.gef:3.6.1-SNAPSHOT @ E:\~SANDBOX\JA
+VA\xmind-intelliJ\bundles\org.xmind.gef\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.gef:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\x
+mind-intelliJ\bundles\org.xmind.gef\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.gef:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmi
+nd-intelliJ\bundles\org.xmind.gef\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.gef.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.gef.ui\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.gef.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAV
+A\xmind-intelliJ\bundles\org.xmind.gef.ui\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.gef.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\
+xmind-intelliJ\bundles\org.xmind.gef.ui\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.neuquant:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.neuquant\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.neuquant:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.neuquant\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.neuquant:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAV
+A\xmind-intelliJ\bundles\org.xmind.neuquant\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.orbit:org.xmind.org.freehep.vectorgraphics:3.6.1-SNAPSHOT @
+ E:\~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.org.freehep.vectorgraphics\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.orbit:org.xmind.org.freehep.vectorgraphics:3.6.1-SNAPSHOT @ E:\
+~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.org.freehep.vectorgraphics\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.orbit:org.xmind.org.freehep.vectorgraphics:3.6.1-SNAPSHOT @ E:\~S
+ANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.org.freehep.vectorgraphics\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAV
+A\xmind-intelliJ\bundles\org.xmind.ui\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xm
+ind-intelliJ\bundles\org.xmind.ui\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmin
+d-intelliJ\bundles\org.xmind.ui\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.biggerplate:3.6.1-SNAPSHOT @ E:\
+~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.biggerplate\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.biggerplate:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.biggerplate\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.biggerplate:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.biggerplate\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.browser:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.browser\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.browser:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.ui.browser\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.browser:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.ui.browser\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.dashboard:3.6.1-SNAPSHOT @ E:\~S
+ANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.dashboard\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.dashboard:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.dashboard\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.dashboard:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.ui.dashboard\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.evernote:3.6.1-SNAPSHOT @ E:\~SA
+NDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.evernote\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.evernote:3.6.1-SNAPSHOT @ E:\~SANDBO
+X\JAVA\xmind-intelliJ\bundles\org.xmind.ui.evernote\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.evernote:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\org.xmind.ui.evernote\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.fishbone:3.6.1-SNAPSHOT @ E:\~SA
+NDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.fishbone\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.fishbone:3.6.1-SNAPSHOT @ E:\~SANDBO
+X\JAVA\xmind-intelliJ\bundles\org.xmind.ui.fishbone\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.fishbone:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\org.xmind.ui.fishbone\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.imports:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.imports\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.imports:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.ui.imports\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.imports:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.ui.imports\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.menus:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.menus\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.menus:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.ui.menus\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.menus:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAV
+A\xmind-intelliJ\bundles\org.xmind.ui.menus\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.mindmap:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.mindmap\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.mindmap:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.ui.mindmap\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.mindmap:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.ui.mindmap\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.resources:3.6.1-SNAPSHOT @ E:\~S
+ANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.resources\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.resources:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.resources\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.resources:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.ui.resources\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.sharing:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.sharing\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.sharing:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.ui.sharing\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.sharing:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.ui.sharing\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spelling:3.6.1-SNAPSHOT @ E:\~SA
+NDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.spelling\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spelling:3.6.1-SNAPSHOT @ E:\~SANDBO
+X\JAVA\xmind-intelliJ\bundles\org.xmind.ui.spelling\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spelling:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\bundles\org.xmind.ui.spelling\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spreadsheet:3.6.1-SNAPSHOT @ E:\
+~SANDBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.spreadsheet\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spreadsheet:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.spreadsheet\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spreadsheet:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.spreadsheet\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.toolkit:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\bundles\org.xmind.ui.toolkit\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.toolkit:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\bundles\org.xmind.ui.toolkit\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.toolkit:3.6.1-SNAPSHOT @ E:\~SANDBOX\J
+AVA\xmind-intelliJ\bundles\org.xmind.ui.toolkit\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.cathy.platform.feature:3.6.1-SNAPS
+HOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.cathy.platform.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.cathy.platform.feature:3.6.1-SNAPSHOT
+@ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.cathy.platform.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.cathy.platform.feature:3.6.1-SNAPSHOT @
+E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.cathy.platform.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.hebe.feature:3.6.1-SNAPSHOT @ E:\~
+SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.hebe.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.hebe.feature:3.6.1-SNAPSHOT @ E:\~SAND
+BOX\JAVA\xmind-intelliJ\features\org.xmind.hebe.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.hebe.feature:3.6.1-SNAPSHOT @ E:\~SANDBO
+X\JAVA\xmind-intelliJ\features\org.xmind.hebe.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.cathy.feature:3.6.1-SNAPSHOT @ E:\
+~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.cathy.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.cathy.feature:3.6.1-SNAPSHOT @ E:\~SAN
+DBOX\JAVA\xmind-intelliJ\features\org.xmind.cathy.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.cathy.feature:3.6.1-SNAPSHOT @ E:\~SANDB
+OX\JAVA\xmind-intelliJ\features\org.xmind.cathy.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:net.xmind.workbench.feature:3.6.1-SNAPSHOT @
+ E:\~SANDBOX\JAVA\xmind-intelliJ\features\net.xmind.workbench.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:net.xmind.workbench.feature:3.6.1-SNAPSHOT @ E:\
+~SANDBOX\JAVA\xmind-intelliJ\features\net.xmind.workbench.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:net.xmind.workbench.feature:3.6.1-SNAPSHOT @ E:\~S
+ANDBOX\JAVA\xmind-intelliJ\features\net.xmind.workbench.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.biggerplate.feature:3.6.1-SN
+APSHOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.biggerplate.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.biggerplate.feature:3.6.1-SNAPSH
+OT @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.biggerplate.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.biggerplate.feature:3.6.1-SNAPSHOT
+ @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.biggerplate.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.evernote.feature:3.6.1-SNAPS
+HOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.evernote.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.evernote.feature:3.6.1-SNAPSHOT
+@ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.evernote.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.evernote.feature:3.6.1-SNAPSHOT @
+E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.evernote.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.localnetwork.feature:3.6.1-S
+NAPSHOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.localnetwork.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.localnetwork.feature:3.6.1-SNAPS
+HOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.localnetwork.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.localnetwork.feature:3.6.1-SNAPSHO
+T @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.localnetwork.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.xmindnet.feature:3.6.1-SNAPS
+HOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.xmindnet.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.xmindnet.feature:3.6.1-SNAPSHOT
+@ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.xmindnet.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.xmindnet.feature:3.6.1-SNAPSHOT @
+E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.share.xmindnet.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.graphicsio.feature:3.6.1-SNAPSHOT
+@ E:\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.graphicsio.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.graphicsio.feature:3.6.1-SNAPSHOT @ E:
+\~SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.graphicsio.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.graphicsio.feature:3.6.1-SNAPSHOT @ E:\~
+SANDBOX\JAVA\xmind-intelliJ\features\org.xmind.graphicsio.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.releng:org.xmind.cathy.repository:3.6.1-SNAPSHOT @ E:\~SAND
+BOX\JAVA\xmind-intelliJ\releng\org.xmind.cathy.repository\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.releng:org.xmind.cathy.repository:3.6.1-SNAPSHOT @ E:\~SANDBOX\
+JAVA\xmind-intelliJ\releng\org.xmind.cathy.repository\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.releng:org.xmind.cathy.repository:3.6.1-SNAPSHOT @ E:\~SANDBOX\JA
+VA\xmind-intelliJ\releng\org.xmind.cathy.repository\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.releng:org.xmind.cathy.product:3.6.1-SNAPSHOT @ E:\~SANDBOX
+\JAVA\xmind-intelliJ\releng\org.xmind.cathy.product\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.releng:org.xmind.cathy.product:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAV
+A\xmind-intelliJ\releng\org.xmind.cathy.product\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.releng:org.xmind.cathy.product:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\
+xmind-intelliJ\releng\org.xmind.cathy.product\pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO]
+[INFO] org.xmind.cathy.releng
+[INFO] org.xmind.core.command
+[INFO] org.xmind.core
+[INFO] org.xmind.core.runtime
+[INFO] org.xmind.neuquant
+[INFO] org.xmind.gef
+[INFO] org.xmind.ui.toolkit
+[INFO] org.xmind.gef.ui
+[INFO] org.xmind.ui.browser
+[INFO] org.xmind.ui.spelling
+[INFO] org.xmind.ui.mindmap
+[INFO] org.xmind.ui
+[INFO] org.xmind.core.net
+[INFO] net.xmind.signin
+[INFO] net.xmind.share
+[INFO] net.xmind.workbench
+[INFO] org.xmind.core.io
+[INFO] org.xmind.ui.imports
+[INFO] org.xmind.core.command.remote
+[INFO] org.xmind.ui.dashboard
+[INFO] org.xmind.cathy
+[INFO] org.xmind.cathy.fonts
+[INFO] org.xmind.cathy.win32
+[INFO] org.xmind.core.command.remote.lan
+[INFO] org.xmind.core.sharing.localnetwork
+[INFO] org.xmind.de.erichseifert.vectorgraphics2d
+[INFO] org.xmind.org.freehep.vectorgraphics
+[INFO] org.xmind.ui.biggerplate
+[INFO] org.xmind.ui.evernote
+[INFO] org.xmind.ui.fishbone
+[INFO] org.xmind.ui.menus
+[INFO] org.xmind.ui.resources
+[INFO] org.xmind.ui.sharing
+[INFO] org.xmind.ui.spreadsheet
+[INFO] org.xmind.cathy.platform.feature
+[INFO] org.xmind.hebe.feature
+[INFO] org.xmind.cathy.feature
+[INFO] net.xmind.workbench.feature
+[INFO] org.xmind.share.biggerplate.feature
+[INFO] org.xmind.share.evernote.feature
+[INFO] org.xmind.share.localnetwork.feature
+[INFO] org.xmind.share.xmindnet.feature
+[INFO] org.xmind.graphicsio.feature
+[INFO] org.xmind.cathy.repository
+[INFO] org.xmind.cathy.product
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin
+-2.4.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-
+2.4.pom (7 KB at 19.4 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/23/maven-plugins-23.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/23/maven-plugins-23.pom (9 KB at
+ 126.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/22/maven-parent-22.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/22/maven-parent-22.pom (30 KB at 299.4 KB
+/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/apache/11/apache-11.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/apache/11/apache-11.pom (15 KB at 206.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin
+-2.4.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-install-plugin/2.4/maven-install-plugin-
+2.4.jar (27 KB at 286.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1
+.3.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.
+3.pom (5 KB at 60.8 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/12/maven-plugins-12.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/12/maven-plugins-12.pom (12 KB a
+t 151.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/9/maven-parent-9.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/9/maven-parent-9.pom (33 KB at 269.5 KB/s
+ec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1
+.3.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-antrun-plugin/1.3/maven-antrun-plugin-1.
+3.jar (24 KB at 168.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assemb
+ly-plugin-2.2-beta-5.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembl
+y-plugin-2.2-beta-5.pom (15 KB at 202.8 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assemb
+ly-plugin-2.2-beta-5.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-assembly-plugin/2.2-beta-5/maven-assembl
+y-plugin-2.2-beta-5.jar (204 KB at 1266.9 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-
+plugin-2.8.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-p
+lugin-2.8.pom (12 KB at 149.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-
+plugin-2.8.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-dependency-plugin/2.8/maven-dependency-p
+lugin-2.8.jar (150 KB at 1236.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.3.2/maven-release-plug
+in-2.3.2.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.3.2/maven-release-plugi
+n-2.3.2.pom (10 KB at 126.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/release/maven-release/2.3.2/maven-release-2.3.2.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/release/maven-release/2.3.2/maven-release-2.3.2.pom (9
+ KB at 120.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.3.2/maven-release-plug
+in-2.3.2.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-release-plugin/2.3.2/maven-release-plugi
+n-2.3.2.jar (44 KB at 401.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-metadata.xml
+Downloading: https://repo.maven.apache.org/maven2/org/codehaus/mojo/maven-metadata.xml
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-metadata.xml (13 KB at 156.4 KB/sec)
+Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/mojo/maven-metadata.xml (20 KB at 101.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/maven-metadata.xml
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/maven-metadata.xml (2 KB
+ at 19.8 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.19.1/maven-surefire-p
+lugin-2.19.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.19.1/maven-surefire-pl
+ugin-2.19.1.pom (6 KB at 65.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.19.1/surefire-2.19.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.19.1/surefire-2.19.1.pom (19 KB at
+ 200.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.19.1/maven-surefire-p
+lugin-2.19.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.19.1/maven-surefire-pl
+ugin-2.19.1.jar (38 KB at 416.7 KB/sec)
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.releng 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-surefire-plugin:2.19.1:test (default-cli) @ org.xmind.cathy.releng ---
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.19.1/maven-surefire-
+common-2.19.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.19.1/maven-surefire-c
+ommon-2.19.1.pom (8 KB at 105.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugi
+n-annotations-3.3.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugin
+-annotations-3.3.pom (2 KB at 23.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.3/maven-plugin-tool
+s-3.3.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-tools/3.3/maven-plugin-tools
+-3.3.pom (13 KB at 164.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/24/maven-parent-24.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/24/maven-parent-24.pom (37 KB at 198.0 KB
+/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/apache/14/apache-14.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/apache/14/apache-14.pom (15 KB at 168.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.19.1/surefire-api-2.19.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.19.1/surefire-api-2.19.1.pom (
+4 KB at 49.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.19.1/surefire-booter-2.19.
+1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.19.1/surefire-booter-2.19.1
+.pom (4 KB at 11.4 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor
+-2.2.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-
+2.2.1.pom (3 KB at 27.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom
+Downloaded: https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.pom (24 KB at 325.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.pom (766 B at 11.3 KB/
+sec)
+Downloading: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom (2 KB at 27.1
+KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.pom (3 KB at 3
+8.7 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.pom (3 KB at
+ 32.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.1
+1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11
+.pom (889 B at 13.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.pom (3 KB at 3
+2.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2
+.2.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.
+2.1.pom (4 KB at 43.9 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-meta
+data-2.2.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metad
+ata-2.2.1.pom (2 KB at 27.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-co
+ncurrent-3.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-con
+current-3.1.pom (880 B at 12.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2
+.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.
+1.pom (2 KB at 28.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.pom (12 KB at 172.1
+KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-
+parameter-documenter-2.2.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-p
+arameter-documenter-2.2.1.pom (2 KB at 28.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.pom (2 KB at 28.5 KB/sec)
+
+Downloading: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.6/slf4j-parent-1.5.6.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-parent/1.5.6/slf4j-parent-1.5.6.pom (8 KB at 113.7 KB/s
+ec)
+Downloading: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.pom (3 KB at 38.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.pom (3 KB at 32.1 K
+B/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics
+-2.2.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-
+2.2.1.pom (2 KB at 21.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.pom (2 KB at 1
+5.9 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.pom
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.pom (4 KB
+at 48.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.jar
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.19.1/maven-surefire-
+common-2.19.1.jar
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor
+-2.2.1.jar
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.jar
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.19.1/surefire-booter-2.19.
+1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-api/2.2.1/maven-plugin-api-2.2.1.jar (13
+KB at 119.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.19.1/maven-surefire-c
+ommon-2.19.1.jar (286 KB at 1752.4 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact/2.2.1/maven-artifact-2.2.1.jar (79 KB a
+t 338.1 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-descriptor/2.2.1/maven-plugin-descriptor-
+2.2.1.jar (39 KB at 140.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/junit/junit/4.12/junit-4.12.jar (308 KB at 1090.6 KB/sec)
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.19.1/surefire-booter-2.19.1
+.jar (45 KB at 157.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.jar
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2
+.2.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar (44 KB at 118.8 KB
+/sec)
+Downloading: https://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-co
+ncurrent-3.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-artifact-manager/2.2.1/maven-artifact-manager-2.
+2.1.jar (66 KB at 155.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2
+.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-project/2.2.1/maven-project-2.2.1.jar (153 KB at
+ 353.3 KB/sec)
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-profile/2.2.1/maven-profile-2.2.1.jar (35 KB at
+79.0 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.1
+1.jar
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-registry/2.2.1/maven-plugin-registry-2.2.
+1.jar (30 KB at 54.2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.11/plexus-interpolation-1.11
+.jar (50 KB at 91.6 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-
+parameter-documenter-2.2.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-model/2.2.1/maven-model-2.2.1.jar (86 KB at 155.
+2 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.jar
+Downloaded: https://repo.maven.apache.org/maven2/backport-util-concurrent/backport-util-concurrent/3.1/backport-util-con
+current-3.1.jar (324 KB at 545.4 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.jar (9 KB at 13.4 KB/sec)
+
+Downloading: https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-plugin-parameter-documenter/2.2.1/maven-plugin-p
+arameter-documenter-2.2.1.jar (22 KB at 33.4 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-meta
+data-2.2.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-core/2.2.1/maven-core-2.2.1.jar (174 KB at 248.5
+ KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics
+-2.2.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.6/slf4j-api-1.5.6.jar (22 KB at 30.5 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.6/jcl-over-slf4j-1.5.6.jar (17 KB at 22.1
+KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.19.1/surefire-api-2.19.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-repository-metadata/2.2.1/maven-repository-metad
+ata-2.2.1.jar (26 KB at 33.3 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-error-diagnostics/2.2.1/maven-error-diagnostics-
+2.2.1.jar (13 KB at 15.9 KB/sec)
+Downloading: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugi
+n-annotations-3.3.jar
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.2.1/maven-monitor-2.2.1.jar (11 KB at
+12.6 KB/sec)
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-settings/2.2.1/maven-settings-2.2.1.jar (48 KB a
+t 54.7 KB/sec)
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.19.1/surefire-api-2.19.1.jar (
+192 KB at 219.1 KB/sec)
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/plugin-tools/maven-plugin-annotations/3.3/maven-plugin
+-annotations-3.3.jar (14 KB at 15.3 KB/sec)
+Downloaded: https://repo.maven.apache.org/maven2/org/apache/maven/maven-toolchain/2.2.1/maven-toolchain-2.2.1.jar (37 KB
+ at 40.8 KB/sec)
+[INFO] No tests to run.
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.command 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-surefire-plugin:2.19.1:test (default-cli) @ org.xmind.core.command ---
+[INFO] No tests to run.
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-surefire-plugin:2.19.1:test (default-cli) @ org.xmind.core ---
+[INFO] No tests to run.
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.runtime 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO]
+[INFO] org.xmind.cathy.releng ............................. SUCCESS [  3.946 s]
+[INFO] org.xmind.core.command ............................. SUCCESS [  0.012 s]
+[INFO] org.xmind.core ..................................... SUCCESS [  0.013 s]
+[INFO] org.xmind.core.runtime ............................. FAILURE [  0.015 s]
+[INFO] org.xmind.neuquant ................................. SKIPPED
+[INFO] org.xmind.gef ...................................... SKIPPED
+[INFO] org.xmind.ui.toolkit ............................... SKIPPED
+[INFO] org.xmind.gef.ui ................................... SKIPPED
+[INFO] org.xmind.ui.browser ............................... SKIPPED
+[INFO] org.xmind.ui.spelling .............................. SKIPPED
+[INFO] org.xmind.ui.mindmap ............................... SKIPPED
+[INFO] org.xmind.ui ....................................... SKIPPED
+[INFO] org.xmind.core.net ................................. SKIPPED
+[INFO] net.xmind.signin ................................... SKIPPED
+[INFO] net.xmind.share .................................... SKIPPED
+[INFO] net.xmind.workbench ................................ SKIPPED
+[INFO] org.xmind.core.io .................................. SKIPPED
+[INFO] org.xmind.ui.imports ............................... SKIPPED
+[INFO] org.xmind.core.command.remote ...................... SKIPPED
+[INFO] org.xmind.ui.dashboard ............................. SKIPPED
+[INFO] org.xmind.cathy .................................... SKIPPED
+[INFO] org.xmind.cathy.fonts .............................. SKIPPED
+[INFO] org.xmind.cathy.win32 .............................. SKIPPED
+[INFO] org.xmind.core.command.remote.lan .................. SKIPPED
+[INFO] org.xmind.core.sharing.localnetwork ................ SKIPPED
+[INFO] org.xmind.de.erichseifert.vectorgraphics2d ......... SKIPPED
+[INFO] org.xmind.org.freehep.vectorgraphics ............... SKIPPED
+[INFO] org.xmind.ui.biggerplate ........................... SKIPPED
+[INFO] org.xmind.ui.evernote .............................. SKIPPED
+[INFO] org.xmind.ui.fishbone .............................. SKIPPED
+[INFO] org.xmind.ui.menus ................................. SKIPPED
+[INFO] org.xmind.ui.resources ............................. SKIPPED
+[INFO] org.xmind.ui.sharing ............................... SKIPPED
+[INFO] org.xmind.ui.spreadsheet ........................... SKIPPED
+[INFO] org.xmind.cathy.platform.feature ................... SKIPPED
+[INFO] org.xmind.hebe.feature ............................. SKIPPED
+[INFO] org.xmind.cathy.feature ............................ SKIPPED
+[INFO] net.xmind.workbench.feature ........................ SKIPPED
+[INFO] org.xmind.share.biggerplate.feature ................ SKIPPED
+[INFO] org.xmind.share.evernote.feature ................... SKIPPED
+[INFO] org.xmind.share.localnetwork.feature ............... SKIPPED
+[INFO] org.xmind.share.xmindnet.feature ................... SKIPPED
+[INFO] org.xmind.graphicsio.feature ....................... SKIPPED
+[INFO] org.xmind.cathy.repository ......................... SKIPPED
+[INFO] org.xmind.cathy.product ............................ SKIPPED
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 16.053 s
+[INFO] Finished at: 2016-04-18T08:02:51+01:00
+[INFO] Final Memory: 54M/1013M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal on project org.xmind.core.runtime: Could not resolve dependencies for project org.xmind.c
+athy.plugins:org.xmind.core.runtime:eclipse-plugin:3.6.1-SNAPSHOT: Could not find artifact org.xmind.cathy.plugins:org.x
+mind.core:jar:3.6.1-SNAPSHOT -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/DependencyResolutionException
+[ERROR]
+[ERROR] After correcting the problems, you can resume the build with the command
+[ERROR]   mvn <goals> -rf :org.xmind.core.runtime
+PS E:\~SANDBOX\JAVA\xmind-intelliJ> mvn surefire:test
+[INFO] Scanning for projects...
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-intelliJ\bundl
+es\net.xmind.share\pom.xml
+[INFO] Fetching p2.index from http://download.eclipse.org/eclipse/updates/4.5/R-4.5.1-201509040015/ (0B at 0B/s)
+[INFO] Adding repository http://download.eclipse.org/eclipse/updates/4.5/R-4.5.1-201509040015
+[INFO] Adding repository http://download.eclipse.org/tools/gef/updates/releases/3.10.1_gef-maintenance_1205
+Terminate batch job (Y/N)?
+^CPS E:\~SANDBOX\JAVA\xmind-intelliJ> ^C
+PS E:\~SANDBOX\JAVA\xmind-intelliJ> ^C
+PS E:\~SANDBOX\JAVA\xmind-intelliJ>
