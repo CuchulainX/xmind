@@ -1,0 +1,727 @@
+
+
+[INFO] net.xmind.share .................................... FAILURE [  0.203 s]
+[ERROR] Failed to execute goal org.eclipse.tycho:tycho-compiler-plugin:0.23.0:compile (default-compile) on project net.xmind.share: Compilation failure: Compilation failure:
+[ERROR] E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.share\src\net\xmind\share\actions\Uploadhandler.java:[18]
+[ERROR] public class UploadHandler extends AbstractHandler {
+[ERROR] ^^^^^^^^^^^^^
+[ERROR] The public type UploadHandler must be defined in its own file
+[ERROR] 1 problem (1 error)
+
+
+
+PS E:\~SANDBOX\JAVA\xmind-eclipse> mvn clean verify
+[INFO] Scanning for projects...
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.share\pom.xml
+[INFO] Fetching p2.index from http://download.eclipse.org/eclipse/updates/4.5/R-4.5.1-201509040015/ (0B at 0B/s)
+[INFO] Adding repository http://download.eclipse.org/eclipse/updates/4.5/R-4.5.1-201509040015
+[INFO] Adding repository http://download.eclipse.org/tools/gef/updates/releases/3.10.1_gef-maintenance_1205
+[INFO] Adding repository http://p2.xmind.net/updates/xmind/R3.6.1.201512240104/orbit
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.share\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:net.xmind.share:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.share\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.signin:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.signin\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:net.xmind.signin:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.signin\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:net.xmind.signin:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.signin\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:net.xmind.workbench:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.workbench\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:net.xmind.workbench:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.workbench\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:net.xmind.workbench:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.workbench\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.cathy:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.cathy\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.cathy\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.cathy\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.fonts:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.cathy.fonts\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.fonts:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.cathy.fonts\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.fonts:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.cathy.fonts\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.win32:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.cathy.win32\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.win32:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.cathy.win32\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.cathy.win32:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.cathy.win32\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.command:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.command\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.command\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.command\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.command.remote\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.command.remote\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.command.remote\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote.lan:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.command.remote.lan\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote.lan:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.command.remote.lan\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.command.remote.lan:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.command.remote.lan\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.io:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.io\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.io:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.io\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.io:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.io\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.net:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.net\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.net:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.net\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.net:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.net\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.runtime:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.runtime\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.runtime:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.runtime\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.runtime:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.runtime\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.core.sharing.localnetwork:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.sharing.localnetwork\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.core.sharing.localnetwork:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.sharing.localnetwork\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.core.sharing.localnetwork:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.sharing.localnetwork\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.orbit:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.de.erichseifert.vectorgraphics2d\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.orbit:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.de.erichseifert.vectorgraphics2d\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.orbit:org.xmind.de.erichseifert.vectorgraphics2d:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.de.erichseifert.vectorgraphics2d\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.gef:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.gef\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.gef:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.gef\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.gef:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.gef\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.gef.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.gef.ui\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.gef.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.gef.ui\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.gef.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.gef.ui\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.neuquant:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.neuquant\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.neuquant:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.neuquant\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.neuquant:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.neuquant\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.orbit:org.xmind.org.freehep.vectorgraphics:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.org.freehep.vectorgraphics\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.orbit:org.xmind.org.freehep.vectorgraphics:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.org.freehep.vectorgraphics\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.orbit:org.xmind.org.freehep.vectorgraphics:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.org.freehep.vectorgraphics\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.biggerplate:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.biggerplate\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.biggerplate:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.biggerplate\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.biggerplate:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.biggerplate\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.browser:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.browser\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.browser:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.browser\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.browser:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.browser\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.dashboard:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.dashboard\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.dashboard:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.dashboard\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.dashboard:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.dashboard\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.evernote:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.evernote\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.evernote:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.evernote\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.evernote:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.evernote\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.fishbone:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.fishbone\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.fishbone:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.fishbone\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.fishbone:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.fishbone\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.imports:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.imports\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.imports:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.imports\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.imports:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.imports\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.menus:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.menus\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.menus:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.menus\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.menus:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.menus\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.mindmap:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.mindmap\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.mindmap:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.mindmap\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.mindmap:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.mindmap\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.resources:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.resources\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.resources:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.resources\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.resources:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.resources\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.sharing:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.sharing\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.sharing:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.sharing\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.sharing:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.sharing\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spelling:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.spelling\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spelling:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.spelling\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spelling:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.spelling\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spreadsheet:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.spreadsheet\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spreadsheet:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.spreadsheet\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.spreadsheet:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.spreadsheet\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.plugins:org.xmind.ui.toolkit:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.toolkit\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.toolkit:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.toolkit\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.plugins:org.xmind.ui.toolkit:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.toolkit\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.cathy.platform.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.cathy.platform.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.cathy.platform.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.cathy.platform.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.cathy.platform.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.cathy.platform.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.hebe.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.hebe.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.hebe.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.hebe.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.hebe.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.hebe.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.cathy.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.cathy.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.cathy.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.cathy.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.cathy.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.cathy.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:net.xmind.workbench.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\net.xmind.workbench.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:net.xmind.workbench.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\net.xmind.workbench.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:net.xmind.workbench.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\net.xmind.workbench.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.biggerplate.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.share.biggerplate.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.biggerplate.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.share.biggerplate.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.biggerplate.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.share.biggerplate.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.evernote.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.share.evernote.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.evernote.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.share.evernote.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.evernote.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.share.evernote.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.localnetwork.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.share.localnetwork.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.localnetwork.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.share.localnetwork.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.localnetwork.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.share.localnetwork.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.share.xmindnet.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.share.xmindnet.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.share.xmindnet.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.share.xmindnet.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.share.xmindnet.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.share.xmindnet.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.cathy.features:org.xmind.graphicsio.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.graphicsio.feature\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.cathy.features:org.xmind.graphicsio.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.graphicsio.feature\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.cathy.features:org.xmind.graphicsio.feature:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\features\org.xmind.graphicsio.feature\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.releng:org.xmind.cathy.repository:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\releng\org.xmind.cathy.repository\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.releng:org.xmind.cathy.repository:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\releng\org.xmind.cathy.repository\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.releng:org.xmind.cathy.repository:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\releng\org.xmind.cathy.repository\pom.xml
+[INFO] Computing target platform for MavenProject: org.xmind.releng:org.xmind.cathy.product:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\releng\org.xmind.cathy.product\pom.xml
+[INFO] Resolving dependencies of MavenProject: org.xmind.releng:org.xmind.cathy.product:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\releng\org.xmind.cathy.product\pom.xml
+[INFO] Resolving class path of MavenProject: org.xmind.releng:org.xmind.cathy.product:3.6.1-SNAPSHOT @ E:\~SANDBOX\JAVA\xmind-eclipse\releng\org.xmind.cathy.product\pom.xml
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Build Order:
+[INFO]
+[INFO] org.xmind.cathy.releng
+[INFO] org.xmind.core.command
+[INFO] org.xmind.core
+[INFO] org.xmind.core.runtime
+[INFO] org.xmind.neuquant
+[INFO] org.xmind.gef
+[INFO] org.xmind.ui.toolkit
+[INFO] org.xmind.gef.ui
+[INFO] org.xmind.ui.browser
+[INFO] org.xmind.ui.spelling
+[INFO] org.xmind.ui.mindmap
+[INFO] org.xmind.ui
+[INFO] org.xmind.core.net
+[INFO] net.xmind.signin
+[INFO] net.xmind.share
+[INFO] net.xmind.workbench
+[INFO] org.xmind.core.io
+[INFO] org.xmind.ui.imports
+[INFO] org.xmind.core.command.remote
+[INFO] org.xmind.ui.dashboard
+[INFO] org.xmind.cathy
+[INFO] org.xmind.cathy.fonts
+[INFO] org.xmind.cathy.win32
+[INFO] org.xmind.core.command.remote.lan
+[INFO] org.xmind.core.sharing.localnetwork
+[INFO] org.xmind.de.erichseifert.vectorgraphics2d
+[INFO] org.xmind.org.freehep.vectorgraphics
+[INFO] org.xmind.ui.biggerplate
+[INFO] org.xmind.ui.evernote
+[INFO] org.xmind.ui.fishbone
+[INFO] org.xmind.ui.menus
+[INFO] org.xmind.ui.resources
+[INFO] org.xmind.ui.sharing
+[INFO] org.xmind.ui.spreadsheet
+[INFO] org.xmind.cathy.platform.feature
+[INFO] org.xmind.hebe.feature
+[INFO] org.xmind.cathy.feature
+[INFO] net.xmind.workbench.feature
+[INFO] org.xmind.share.biggerplate.feature
+[INFO] org.xmind.share.evernote.feature
+[INFO] org.xmind.share.localnetwork.feature
+[INFO] org.xmind.share.xmindnet.feature
+[INFO] org.xmind.graphicsio.feature
+[INFO] org.xmind.cathy.repository
+[INFO] org.xmind.cathy.product
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.cathy.releng 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.cathy.releng ---
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.command 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.command ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.core.command ---
+[INFO] The project's OSGi version is 3.6.1.201604190720
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.core.command ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.core.command ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.core.command ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.command\src\main\resources
+[INFO]
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.core.command ---
+[INFO] Compiling 24 source files to E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.command\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.core.command ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.command\src\test\resources
+[INFO]
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.core.command ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.core.command ---
+[INFO] Building jar: E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.command\target\org.xmind.core.command-3.6.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.core.command ---
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.core ---
+[INFO] The project's OSGi version is 3.6.1.201604190720
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.core ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.core ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.core ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core\src\main\resources
+[INFO]
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.core ---
+[INFO] Compiling 241 source files to E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.core ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core\src\test\resources
+[INFO]
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.core ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.core ---
+[INFO] Building jar: E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core\target\org.xmind.core-3.6.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.core ---
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.runtime 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.runtime ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.core.runtime ---
+[INFO] The project's OSGi version is 3.6.1.201604190720
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.core.runtime ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.core.runtime ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.core.runtime ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.runtime\src\main\resources
+[INFO]
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.core.runtime ---
+[INFO] Compiling 17 source files to E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.runtime\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.core.runtime ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.runtime\src\test\resources
+[INFO]
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.core.runtime ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.core.runtime ---
+[INFO] Building jar: E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.runtime\target\org.xmind.core.runtime-3.6.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.core.runtime ---
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.neuquant 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.neuquant ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.neuquant ---
+[INFO] The project's OSGi version is 3.6.1.201604190720
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.neuquant ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.neuquant ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.neuquant ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.neuquant\src\main\resources
+[INFO]
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.neuquant ---
+[INFO] Compiling 1 source file to E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.neuquant\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.neuquant ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.neuquant\src\test\resources
+[INFO]
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.neuquant ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.neuquant ---
+[INFO] Building jar: E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.neuquant\target\org.xmind.neuquant-3.6.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.neuquant ---
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.gef 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.gef ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.gef ---
+[INFO] The project's OSGi version is 3.6.1.201604190720
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.gef ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.gef ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.gef ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.gef\src\main\resources
+[INFO]
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.gef ---
+[INFO] Compiling 300 source files to E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.gef\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.gef ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.gef\src\test\resources
+[INFO]
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.gef ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.gef ---
+[INFO] Building jar: E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.gef\target\org.xmind.gef-3.6.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.gef ---
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.toolkit 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.toolkit ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.toolkit ---
+[INFO] The project's OSGi version is 3.6.1.201604190720
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.toolkit ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.toolkit ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.toolkit ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.toolkit\src\main\resources
+[INFO]
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.toolkit ---
+[INFO] Compiling 195 source files to E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.toolkit\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.toolkit ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.toolkit\src\test\resources
+[INFO]
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.toolkit ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.toolkit ---
+[INFO] Building jar: E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.toolkit\target\org.xmind.ui.toolkit-3.6.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.toolkit ---
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.gef.ui 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.gef.ui ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.gef.ui ---
+[INFO] The project's OSGi version is 3.6.1.201604190720
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.gef.ui ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.gef.ui ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.gef.ui ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.gef.ui\src\main\resources
+[INFO]
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.gef.ui ---
+[INFO] Compiling 117 source files to E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.gef.ui\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.gef.ui ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.gef.ui\src\test\resources
+[INFO]
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.gef.ui ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.gef.ui ---
+[INFO] Building jar: E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.gef.ui\target\org.xmind.gef.ui-3.6.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.gef.ui ---
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.browser 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.browser ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.browser ---
+[INFO] The project's OSGi version is 3.6.1.201604190720
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.browser ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.browser ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.browser ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.browser\src\main\resources
+[INFO]
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.browser ---
+[INFO] Compiling 36 source files to E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.browser\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.browser ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.browser\src\test\resources
+[INFO]
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.browser ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.browser ---
+[INFO] Building jar: E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.browser\target\org.xmind.ui.browser-3.6.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.browser ---
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.spelling 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.spelling ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.spelling ---
+[INFO] The project's OSGi version is 3.6.1.201604190720
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.spelling ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.spelling ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.spelling ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.spelling\src\main\resources
+[INFO]
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.spelling ---
+[INFO] Compiling 16 source files to E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.spelling\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.spelling ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.spelling\src\test\resources
+[INFO]
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.spelling ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.spelling ---
+[INFO] Building jar: E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.spelling\target\org.xmind.ui.spelling-3.6.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.spelling ---
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui.mindmap 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui.mindmap ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui.mindmap ---
+[INFO] The project's OSGi version is 3.6.1.201604190720
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui.mindmap ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui.mindmap ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui.mindmap ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.mindmap\src\main\resources
+[INFO]
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui.mindmap ---
+[INFO] Compiling 972 source files to E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.mindmap\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui.mindmap ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.mindmap\src\test\resources
+[INFO]
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui.mindmap ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui.mindmap ---
+[INFO] Building jar: E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui.mindmap\target\org.xmind.ui.mindmap-3.6.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui.mindmap ---
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.ui 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.ui ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.ui ---
+[INFO] The project's OSGi version is 3.6.1.201604190720
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.ui ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.ui ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.ui ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui\src\main\resources
+[INFO]
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.ui ---
+[INFO] Compiling 1 source file to E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.ui ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui\src\test\resources
+[INFO]
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.ui ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.ui ---
+[INFO] Building jar: E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.ui\target\org.xmind.ui-3.6.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.ui ---
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building org.xmind.core.net 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ org.xmind.core.net ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ org.xmind.core.net ---
+[INFO] The project's OSGi version is 3.6.1.201604190720
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ org.xmind.core.net ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ org.xmind.core.net ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ org.xmind.core.net ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.net\src\main\resources
+[INFO]
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ org.xmind.core.net ---
+[INFO] Compiling 7 source files to E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.net\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ org.xmind.core.net ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.net\src\test\resources
+[INFO]
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ org.xmind.core.net ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ org.xmind.core.net ---
+[INFO] Building jar: E:\~SANDBOX\JAVA\xmind-eclipse\bundles\org.xmind.core.net\target\org.xmind.core.net-3.6.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ org.xmind.core.net ---
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building net.xmind.signin 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ net.xmind.signin ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ net.xmind.signin ---
+[INFO] The project's OSGi version is 3.6.1.201604190720
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ net.xmind.signin ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ net.xmind.signin ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ net.xmind.signin ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.signin\src\main\resources
+[INFO]
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ net.xmind.signin ---
+[INFO] Compiling 38 source files to E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.signin\target\classes
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:testResources (default-testResources) @ net.xmind.signin ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.signin\src\test\resources
+[INFO]
+[INFO] --- target-platform-configuration:0.23.0:target-platform (default-target-platform) @ net.xmind.signin ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:package-plugin (default-package-plugin) @ net.xmind.signin ---
+[INFO] Building jar: E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.signin\target\net.xmind.signin-3.6.1-SNAPSHOT.jar
+[INFO]
+[INFO] --- tycho-p2-plugin:0.23.0:p2-metadata-default (default-p2-metadata-default) @ net.xmind.signin ---
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Building net.xmind.share 3.6.1-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO]
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ net.xmind.share ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:build-qualifier (default-build-qualifier) @ net.xmind.share ---
+[INFO] The project's OSGi version is 3.6.1.201604190720
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-id (default-validate-id) @ net.xmind.share ---
+[INFO]
+[INFO] --- tycho-packaging-plugin:0.23.0:validate-version (default-validate-version) @ net.xmind.share ---
+[INFO]
+[INFO] --- maven-resources-plugin:2.4.3:resources (default-resources) @ net.xmind.share ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.share\src\main\resources
+[INFO]
+[INFO] --- tycho-compiler-plugin:0.23.0:compile (default-compile) @ net.xmind.share ---
+[INFO] Compiling 20 source files to E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.share\target\classes
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO]
+[INFO] org.xmind.cathy.releng ............................. SUCCESS [  0.031 s]
+[INFO] org.xmind.core.command ............................. SUCCESS [  0.937 s]
+[INFO] org.xmind.core ..................................... SUCCESS [  1.422 s]
+[INFO] org.xmind.core.runtime ............................. SUCCESS [  0.407 s]
+[INFO] org.xmind.neuquant ................................. SUCCESS [  0.125 s]
+[INFO] org.xmind.gef ...................................... SUCCESS [  1.689 s]
+[INFO] org.xmind.ui.toolkit ............................... SUCCESS [  2.441 s]
+[INFO] org.xmind.gef.ui ................................... SUCCESS [  1.196 s]
+[INFO] org.xmind.ui.browser ............................... SUCCESS [  0.406 s]
+[INFO] org.xmind.ui.spelling .............................. SUCCESS [  0.410 s]
+[INFO] org.xmind.ui.mindmap ............................... SUCCESS [  7.272 s]
+[INFO] org.xmind.ui ....................................... SUCCESS [  0.422 s]
+[INFO] org.xmind.core.net ................................. SUCCESS [  0.234 s]
+[INFO] net.xmind.signin ................................... SUCCESS [  0.423 s]
+[INFO] net.xmind.share .................................... FAILURE [  0.203 s]
+[INFO] net.xmind.workbench ................................ SKIPPED
+[INFO] org.xmind.core.io .................................. SKIPPED
+[INFO] org.xmind.ui.imports ............................... SKIPPED
+[INFO] org.xmind.core.command.remote ...................... SKIPPED
+[INFO] org.xmind.ui.dashboard ............................. SKIPPED
+[INFO] org.xmind.cathy .................................... SKIPPED
+[INFO] org.xmind.cathy.fonts .............................. SKIPPED
+[INFO] org.xmind.cathy.win32 .............................. SKIPPED
+[INFO] org.xmind.core.command.remote.lan .................. SKIPPED
+[INFO] org.xmind.core.sharing.localnetwork ................ SKIPPED
+[INFO] org.xmind.de.erichseifert.vectorgraphics2d ......... SKIPPED
+[INFO] org.xmind.org.freehep.vectorgraphics ............... SKIPPED
+[INFO] org.xmind.ui.biggerplate ........................... SKIPPED
+[INFO] org.xmind.ui.evernote .............................. SKIPPED
+[INFO] org.xmind.ui.fishbone .............................. SKIPPED
+[INFO] org.xmind.ui.menus ................................. SKIPPED
+[INFO] org.xmind.ui.resources ............................. SKIPPED
+[INFO] org.xmind.ui.sharing ............................... SKIPPED
+[INFO] org.xmind.ui.spreadsheet ........................... SKIPPED
+[INFO] org.xmind.cathy.platform.feature ................... SKIPPED
+[INFO] org.xmind.hebe.feature ............................. SKIPPED
+[INFO] org.xmind.cathy.feature ............................ SKIPPED
+[INFO] net.xmind.workbench.feature ........................ SKIPPED
+[INFO] org.xmind.share.biggerplate.feature ................ SKIPPED
+[INFO] org.xmind.share.evernote.feature ................... SKIPPED
+[INFO] org.xmind.share.localnetwork.feature ............... SKIPPED
+[INFO] org.xmind.share.xmindnet.feature ................... SKIPPED
+[INFO] org.xmind.graphicsio.feature ....................... SKIPPED
+[INFO] org.xmind.cathy.repository ......................... SKIPPED
+[INFO] org.xmind.cathy.product ............................ SKIPPED
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 29.841 s
+[INFO] Finished at: 2016-04-19T08:20:30+01:00
+[INFO] Final Memory: 61M/1417M
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.eclipse.tycho:tycho-compiler-plugin:0.23.0:compile (default-compile) on project net.xmind.share: Compilation failure: Compilation failure:
+[ERROR] E:\~SANDBOX\JAVA\xmind-eclipse\bundles\net.xmind.share\src\net\xmind\share\actions\Uploadhandler.java:[18]
+[ERROR] public class UploadHandler extends AbstractHandler {
+[ERROR] ^^^^^^^^^^^^^
+[ERROR] The public type UploadHandler must be defined in its own file
+[ERROR] 1 problem (1 error)
+[ERROR] -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+[ERROR]
+[ERROR] After correcting the problems, you can resume the build with the command
+[ERROR]   mvn <goals> -rf :net.xmind.share
+[WARNING] Exception while deleting temp folder C:\Users\eddie\AppData\Local\Temp\tycho429461771662093220equinox
+java.io.IOException: File C:\Users\eddie\AppData\Local\Temp\tycho429461771662093220equinox\config\org.eclipse.osgi\.manager\.tmp6350375160466138710.instance unable to be deleted.
+        at org.codehaus.plexus.util.FileUtils.forceDelete(FileUtils.java:1414)
+        at org.codehaus.plexus.util.FileUtils.cleanDirectory(FileUtils.java:1672)
+        at org.codehaus.plexus.util.FileUtils.deleteDirectory(FileUtils.java:1618)
+        at org.codehaus.plexus.util.FileUtils.forceDelete(FileUtils.java:1402)
+        at org.codehaus.plexus.util.FileUtils.cleanDirectory(FileUtils.java:1672)
+        at org.codehaus.plexus.util.FileUtils.deleteDirectory(FileUtils.java:1618)
+        at org.codehaus.plexus.util.FileUtils.forceDelete(FileUtils.java:1402)
+        at org.codehaus.plexus.util.FileUtils.cleanDirectory(FileUtils.java:1672)
+        at org.codehaus.plexus.util.FileUtils.deleteDirectory(FileUtils.java:1618)
+        at org.codehaus.plexus.util.FileUtils.forceDelete(FileUtils.java:1402)
+        at org.codehaus.plexus.util.FileUtils.cleanDirectory(FileUtils.java:1672)
+        at org.codehaus.plexus.util.FileUtils.deleteDirectory(FileUtils.java:1618)
+        at org.eclipse.sisu.equinox.embedder.internal.DefaultEquinoxEmbedder.dispose(DefaultEquinoxEmbedder.java:338)
+        at org.eclipse.sisu.plexus.PlexusLifecycleManager.dispose(PlexusLifecycleManager.java:368)
+        at org.eclipse.sisu.plexus.PlexusLifecycleManager.unmanage(PlexusLifecycleManager.java:173)
+        at org.codehaus.plexus.DefaultPlexusContainer.dispose(DefaultPlexusContainer.java:590)
+        at org.apache.maven.cli.MavenCli.doMain(MavenCli.java:315)
+        at org.apache.maven.cli.MavenCli.main(MavenCli.java:199)
+        at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+        at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+        at java.lang.reflect.Method.invoke(Method.java:498)
+        at org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:289)
+        at org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:229)
+        at org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:415)
+        at org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:356)
+PS E:\~SANDBOX\JAVA\xmind-eclipse>

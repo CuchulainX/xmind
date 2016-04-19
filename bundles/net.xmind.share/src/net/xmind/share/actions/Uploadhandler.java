@@ -15,7 +15,7 @@ import org.xmind.ui.mindmap.IMindMapViewer;
 
 import net.xmind.share.Uploader;
 
-public class UploadHandler extends AbstractHandler {
+public class Uploadhandler extends AbstractHandler {
 
     public Object execute(ExecutionEvent event) throws ExecutionException {
         upload(event);
