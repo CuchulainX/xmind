@@ -1,0 +1,15 @@
+10. Creted Eclipse Mars workspace in Project root
+20	imported projects to workspace
+30	install 4.5.2 sdk
+35 set as target in cathy.target
+40. 	Corrected typo
+50	mvn clean verify - success
+
+*note to self - should have used zsoft uninstaller to see what happened behind the scenes when 'set as target platform' was executed
+
+"C:\IDEs\Eclipse Toolset\rcp-mars-2-x86_64\eclipsec.exe" -nosplash -consoleLog -application org.eclipse.equinox.p2.director -repository file:/"E:/~SANDBOX/JAVA/xmind-eclipse/releng/org.xmind.cathy.product/target/repository" -installIU org.xmind.cathy.product -profile XMindProfile -roaming -destination "E:/~SANDBOX/JAVA/xmind-eclipse/target/xmind" -p2.os win32 -p2.ws win32 -p2.arch x86
+
+run the build command in Cmd not Powershell
+
+Success!!!
+

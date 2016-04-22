@@ -1,0 +1,173 @@
+!SESSION 2016-04-20 16:34:57.306 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_77
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+
+!ENTRY org.eclipse.osgi 4 0 2016-04-20 16:34:57.454
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: E:\~SANDBOX\JAVA\xmind-eclipse\.metadata\.plugins\org.eclipse.pde.core\xmind-as-OSGi\org.eclipse.osgi
+osgi> "Framework is launched."
+
+
+id	State       Bundle
+0	ACTIVE      org.eclipse.osgi_3.10.101.v20150820-1432
+	            Fragments=116
+1	ACTIVE      org.eclipse.draw2d_3.10.1.201508170204
+2	RESOLVED    org.eclipse.core.runtime.compatibility.registry_3.6.0.v20150318-1505
+	            Master=62
+3	ACTIVE      org.eclipse.ui.trace_1.0.300.v20150220-1252
+4	ACTIVE      org.xmind.core_3.6.1.qualifier
+5	ACTIVE      org.eclipse.e4.core.di.extensions_0.13.0.v20150421-2214
+6	ACTIVE      org.apache.felix.gogo.shell_0.10.0.v201212101605
+7	ACTIVE      org.eclipse.equinox.console_1.1.100.v20141023-1406
+8	ACTIVE      org.eclipse.e4.ui.model.workbench_1.1.100.v20150407-1430
+9	ACTIVE      org.eclipse.text_3.5.400.v20150505-1044
+10	ACTIVE      net.xmind.share_3.6.1.qualifier
+11	ACTIVE      org.eclipse.emf.ecore.change_2.11.0.v20150805-0538
+12	ACTIVE      org.xmind.cathy.fonts_3.6.1.qualifier
+13	ACTIVE      org.xmind.core.sharing.localnetwork_3.6.1.qualifier
+14	ACTIVE      org.xmind.core.net_3.6.1.qualifier
+15	ACTIVE      org.scribe.oauth_1.3.6
+16	ACTIVE      org.xmind.ui.toolkit_3.6.1.qualifier
+17	ACTIVE      javax.xml_1.3.4.v201005080400
+18	ACTIVE      org.eclipse.equinox.security_1.2.100.v20150423-1356
+	            Fragments=37
+19	ACTIVE      org.eclipse.emf.ecore.xmi_2.11.1.v20150805-0538
+20	ACTIVE      net.xmind.signin_3.6.1.qualifier
+21	ACTIVE      org.eclipse.e4.ui.css.swt.theme_0.10.0.v20150422-0725
+22	ACTIVE      org.eclipse.e4.emf.xpath_0.1.100.v20150513-0856
+23	ACTIVE      org.xmind.core.runtime_3.6.1.qualifier
+24	ACTIVE      org.xmind.ui_3.6.1.qualifier
+	            Fragments=66
+25	ACTIVE      org.xmind.ui.spelling_3.6.1.qualifier
+26	ACTIVE      org.eclipse.core.net_1.2.300.v20141118-1725
+	            Fragments=85
+27	ACTIVE      org.eclipse.jface.databinding_1.7.0.v20150406-2148
+28	ACTIVE      org.eclipse.core.resources_3.10.1.v20150725-1910
+	            Fragments=126
+29	ACTIVE      org.eclipse.swt_3.104.1.v20150825-0743
+	            Fragments=30
+30	RESOLVED    org.eclipse.swt.win32.win32.x86_64_3.104.1.v20150825-0743
+	            Master=29
+31	ACTIVE      org.xmind.cathy_3.6.1.qualifier
+	            Fragments=105
+32	ACTIVE      org.xmind.ui.imports_3.6.1.qualifier
+33	ACTIVE      org.eclipse.core.jobs_3.7.0.v20150330-2103
+34	ACTIVE      javax.annotation_1.2.0.v201401042248
+35	ACTIVE      org.xmind.core.command.remote_3.6.1.qualifier
+36	ACTIVE      org.eclipse.core.variables_3.2.800.v20130819-1716
+37	RESOLVED    org.eclipse.equinox.security.win32.x86_64_1.0.100.v20130327-1442
+	            Master=18
+38	ACTIVE      org.json_1.0.0.201510292325
+39	ACTIVE      org.eclipse.team.core_3.7.100.v20150203-1452
+40	ACTIVE      org.w3c.dom.events_3.0.0.draft20060413_v201105210656
+41	ACTIVE      org.eclipse.ui.workbench_3.107.0.v20150825-2206
+42	ACTIVE      org.xmind.core.runtime.tests_3.6.1.qualifier
+43	ACTIVE      com.evernote.sdk.java_1.25.1
+44	ACTIVE      org.xmind.products_3.6.1.qualifier
+45	ACTIVE      org.apache.felix.gogo.command_0.10.0.v201209301215
+46	ACTIVE      org.eclipse.equinox.util_1.0.500.v20130404-1337
+47	ACTIVE      org.xmind.ui.browser_3.6.1.qualifier
+48	ACTIVE      org.eclipse.equinox.app_1.3.300.v20150423-1356
+49	ACTIVE      com.ibm.icu_54.1.1.v201501272100
+50	ACTIVE      org.eclipse.e4.core.di.annotations_1.4.0.v20150528-1451
+51	ACTIVE      org.xmind.ui.fishbone_3.6.1.qualifier
+52	ACTIVE      org.eclipse.core.commands_3.7.0.v20150422-0725
+53	ACTIVE      org.eclipse.equinox.preferences_3.5.300.v20150408-1437
+54	ACTIVE      org.eclipse.core.expressions_3.5.0.v20150421-2214
+55	ACTIVE      org.xmind.de.erichseifert.vectorgraphics2d_3.6.1.qualifier
+56	ACTIVE      org.xmind.ui.menus_3.6.1.qualifier
+57	ACTIVE      org.xmind.ui.spreadsheet_3.6.1.qualifier
+58	ACTIVE      org.xmind.core.io_3.6.1.qualifier
+59	ACTIVE      org.xmind.ui.mindmap_3.6.1.qualifier
+60	ACTIVE      org.eclipse.e4.ui.workbench.renderers.swt_0.13.0.v20150901-1347
+61	ACTIVE      org.xmind.ui.evernote_3.6.1.qualifier
+62	ACTIVE      org.eclipse.equinox.registry_3.6.0.v20150318-1503
+	            Fragments=2
+63	ACTIVE      net.xmind.workbench_3.6.1.qualifier
+64	ACTIVE      net.sourceforge.jazzy_0.5.2
+65	ACTIVE      org.eclipse.e4.ui.di_1.1.0.v20150422-0725
+66	RESOLVED    org.xmind.ui.resources_3.6.1.qualifier
+	            Master=24
+67	ACTIVE      org.apache.commons.codec_1.6.0.v201305230611
+68	ACTIVE      org.eclipse.e4.core.contexts_1.4.0.v20150828-0818
+69	ACTIVE      org.eclipse.e4.ui.css.core_0.11.0.v20150511-1937
+70	ACTIVE      org.eclipse.emf.ecore_2.11.1.v20150805-0538
+71	ACTIVE      org.eclipse.equinox.event_1.3.100.v20140115-1647
+72	ACTIVE      javax.inject_1.0.0.v20091030
+73	ACTIVE      org.apache.batik.css_1.7.0.v201011041433
+74	ACTIVE      org.eclipse.ui.themes_1.1.0.v20150511-0913
+75	ACTIVE      javax.servlet_3.1.0.v201410161800
+76	ACTIVE      org.xmind.core.command.remote.lan_3.6.1.qualifier
+77	ACTIVE      org.apache.batik.util_1.7.0.v201011041433
+78	ACTIVE      org.eclipse.e4.ui.css.swt_0.12.0.v20150511-1003
+79	ACTIVE      org.xmind.ui.sharing_3.6.1.qualifier
+80	ACTIVE      org.xmind.gef_3.6.1.qualifier
+81	ACTIVE      org.apache.batik.util.gui_1.7.0.v200903091627
+82	ACTIVE      org.eclipse.ui.forms_3.6.200.v20150506-2029
+83	ACTIVE      org.eclipse.equinox.common_3.7.0.v20150402-1709
+84	ACTIVE      org.w3c.dom.svg_1.1.0.v201011041433
+85	RESOLVED    org.eclipse.core.net.win32.x86_64_1.0.100.v20140124-2013
+	            Master=26
+86	ACTIVE      org.eclipse.core.databinding.observable_1.5.0.v20150422-0725
+87	ACTIVE      net.coobird.thumbnailator_0.4.8
+88	ACTIVE      org.eclipse.jface_3.11.0.v20150602-1400
+89	ACTIVE      org.eclipse.ant.core_3.4.0.v20150428-1928
+90	ACTIVE      org.eclipse.core.databinding.property_1.5.0.v20150422-0725
+91	ACTIVE      org.xmind.ui.biggerplate_3.6.1.qualifier
+92	ACTIVE      org.eclipse.e4.ui.services_1.2.0.v20150422-0725
+93	ACTIVE      org.eclipse.core.databinding_1.5.0.v20150422-0725
+94	ACTIVE      org.eclipse.e4.ui.workbench_1.3.0.v20150531-1948
+95	ACTIVE      org.eclipse.e4.ui.workbench.swt_0.13.0.v20150504-0621
+96	ACTIVE      org.eclipse.core.runtime_3.11.1.v20150903-1804
+97	ACTIVE      org.eclipse.e4.core.services_2.0.0.v20150403-1912
+98	ACTIVE      org.junit_4.12.0.v201504281640
+99	ACTIVE      org.eclipse.osgi.services_3.5.0.v20150519-2006
+100	ACTIVE      org.w3c.dom.smil_1.0.1.v200903091627
+101	ACTIVE      org.eclipse.equinox.bidi_0.10.0.v20130327-1442
+102	ACTIVE      org.xmind.org.freehep.vectorgraphics_3.6.1.qualifier
+103	ACTIVE      org.eclipse.core.filesystem_1.5.0.v20150725-1910
+	            Fragments=119, 115
+104	ACTIVE      org.hamcrest.core_1.3.0.v201303031735
+105	RESOLVED    org.xmind.cathy.win32_3.6.1.qualifier
+	            Master=31
+106	ACTIVE      org.eclipse.e4.ui.workbench.addons.swt_1.2.0.v20150512-1414
+107	ACTIVE      org.xmind.neuquant_3.6.1.qualifier
+108	ACTIVE      org.eclipse.core.contenttype_3.5.0.v20150421-2214
+109	ACTIVE      org.xmind.core.command_3.6.1.qualifier
+110	ACTIVE      org.eclipse.e4.ui.workbench3_0.13.0.v20150422-0725
+111	ACTIVE      org.eclipse.emf.common_2.11.0.v20150805-0538
+112	ACTIVE      org.eclipse.e4.core.commands_0.11.0.v20150422-0725
+113	ACTIVE      org.w3c.css.sac_1.3.1.v200903091627
+114	ACTIVE      org.apache.commons.jxpath_1.3.0.v200911051830
+115	RESOLVED    org.eclipse.core.filesystem.win32.x86_64_1.4.0.v20140124-1940
+	            Master=103
+116	RESOLVED    org.eclipse.osgi.compatibility.state_1.0.100.v20150402-1551
+	            Master=0
+117	ACTIVE      org.xmind.gef.ui_3.6.1.qualifier
+118	ACTIVE      org.eclipse.ui_3.107.0.v20150507-1945
+119	RESOLVED    org.eclipse.core.filesystem.java7_1.0.100.v20150423-0754
+	            Master=103
+120	ACTIVE      org.apache.felix.gogo.runtime_0.10.0.v201209301036
+121	ACTIVE      org.bouncycastle_1.5.2
+122	ACTIVE      org.xmind.ui.dashboard_3.6.1.qualifier
+123	ACTIVE      org.eclipse.help_3.6.0.v20130326-1254
+124	ACTIVE      org.eclipse.jface.text_3.10.0.v20150603-1752
+125	ACTIVE      com.apple.dnssd_561.1.1.201511271140
+126	RESOLVED    org.eclipse.core.resources.win32.x86_64_3.5.0.v20140124-1940
+	            Master=28
+127	ACTIVE      org.eclipse.e4.ui.widgets_1.1.0.v20150427-1751
+128	ACTIVE      org.eclipse.e4.ui.bindings_0.11.0.v20150422-0725
+129	ACTIVE      org.eclipse.equinox.ds_1.4.300.v20150423-1356
+130	ACTIVE      org.eclipse.compare.core_3.5.500.v20150505-1058
+131	ACTIVE      org.eclipse.e4.core.di_1.5.0.v20150421-2214
+osgi> osgi> gogo: BundleException: Invalid operation on a fragment.
+osgi> osgi> !SESSION 2016-04-20 16:41:21.519 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.8.0_77
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+
+!ENTRY org.eclipse.osgi 4 0 2016-04-20 16:41:21.678
+!MESSAGE The -clean (osgi.clean) option was not successful. Unable to clean the storage area: E:\~SANDBOX\JAVA\xmind-eclipse\.metadata\.plugins\org.eclipse.pde.core\xmind-as-OSGi\org.eclipse.osgi
+osgi> 
