@@ -1,0 +1,10 @@
+rootProject.name = 'org.xmind.cathy.releng'
+include ':shared-plugin-settings:wrapper-bundle-settings'
+include ':shared-plugin-settings:compiled-bundle-settings'
+include ':shared-plugin-settings'
+include ':provision'
+
+project(':shared-plugin-settings:wrapper-bundle-settings').projectDir = "$rootDir/poms/wrappers" as File
+project(':shared-plugin-settings:compiled-bundle-settings').projectDir = "$rootDir/poms/compiled" as File
+project(':shared-plugin-settings').projectDir = "$rootDir/poms" as File
+project(':provision').projectDir = "$rootDir/provision" as File

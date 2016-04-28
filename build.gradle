@@ -1,0 +1,26 @@
+allprojects  {
+  apply plugin: 'maven'
+
+  group = 'org.xmind.releng'
+version = '3.6.1-SNAPSHOT'
+}
+
+subprojects {
+  apply plugin: 'java'
+  sourceCompatibility = 1.5
+  targetCompatibility = 1.5
+
+  
+  repositories {
+    mavenLocal()
+    
+    maven { url "http://download.eclipse.org/eclipse/updates/4.5/R-4.5.1-201509040015" }
+    maven { url "http://download.eclipse.org/tools/gef/updates/releases/3.10.1_gef-maintenance_1205" }
+    maven { url "http://p2.xmind.net/updates/xmind/R3.6.1.201512240104/orbit" }
+    maven { url "http://repo.maven.apache.org/maven2" }
+  }
+
+  
+  
+  
+}

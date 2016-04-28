@@ -1,0 +1,98 @@
+rootProject.name = 'org.xmind.cathy.releng'
+include ':net.xmind.share'
+include ':net.xmind.signin'
+include ':net.xmind.workbench'
+include ':org.xmind.cathy'
+include ':org.xmind.cathy.fonts'
+include ':org.xmind.cathy.win32'
+include ':org.xmind.core'
+include ':org.xmind.core.command'
+include ':org.xmind.core.command.remote'
+include ':org.xmind.core.command.remote.lan'
+include ':org.xmind.core.io'
+include ':org.xmind.core.net'
+include ':org.xmind.core.runtime'
+include ':org.xmind.core.sharing.localnetwork'
+include ':org.xmind.de.erichseifert.vectorgraphics2d'
+include ':org.xmind.gef'
+include ':org.xmind.gef.ui'
+include ':org.xmind.neuquant'
+include ':org.xmind.org.freehep.vectorgraphics'
+include ':org.xmind.ui'
+include ':org.xmind.ui.biggerplate'
+include ':org.xmind.ui.browser'
+include ':org.xmind.ui.dashboard'
+include ':org.xmind.ui.evernote'
+include ':org.xmind.ui.fishbone'
+include ':org.xmind.ui.imports'
+include ':org.xmind.ui.menus'
+include ':org.xmind.ui.mindmap'
+include ':org.xmind.ui.resources'
+include ':org.xmind.ui.sharing'
+include ':org.xmind.ui.spelling'
+include ':org.xmind.ui.spreadsheet'
+include ':org.xmind.ui.toolkit'
+include ':org.xmind.cathy.platform.feature'
+include ':org.xmind.hebe.feature'
+include ':org.xmind.cathy.feature'
+include ':net.xmind.workbench.feature'
+include ':org.xmind.share.biggerplate.feature'
+include ':org.xmind.share.evernote.feature'
+include ':org.xmind.share.localnetwork.feature'
+include ':org.xmind.share.xmindnet.feature'
+include ':org.xmind.graphicsio.feature'
+include ':org.xmind.cathy.repository'
+include ':org.xmind.cathy.product'
+include ':shared-plugin-settings:wrapper-bundle-settings'
+include ':shared-plugin-settings:compiled-bundle-settings'
+include ':shared-plugin-settings'
+include ':provision'
+
+project(':net.xmind.share').projectDir = "$rootDir/bundles/net.xmind.share" as File
+project(':net.xmind.signin').projectDir = "$rootDir/bundles/net.xmind.signin" as File
+project(':net.xmind.workbench').projectDir = "$rootDir/bundles/net.xmind.workbench" as File
+project(':org.xmind.cathy').projectDir = "$rootDir/bundles/org.xmind.cathy" as File
+project(':org.xmind.cathy.fonts').projectDir = "$rootDir/bundles/org.xmind.cathy.fonts" as File
+project(':org.xmind.cathy.win32').projectDir = "$rootDir/bundles/org.xmind.cathy.win32" as File
+project(':org.xmind.core').projectDir = "$rootDir/bundles/org.xmind.core" as File
+project(':org.xmind.core.command').projectDir = "$rootDir/bundles/org.xmind.core.command" as File
+project(':org.xmind.core.command.remote').projectDir = "$rootDir/bundles/org.xmind.core.command.remote" as File
+project(':org.xmind.core.command.remote.lan').projectDir = "$rootDir/bundles/org.xmind.core.command.remote.lan" as File
+project(':org.xmind.core.io').projectDir = "$rootDir/bundles/org.xmind.core.io" as File
+project(':org.xmind.core.net').projectDir = "$rootDir/bundles/org.xmind.core.net" as File
+project(':org.xmind.core.runtime').projectDir = "$rootDir/bundles/org.xmind.core.runtime" as File
+project(':org.xmind.core.sharing.localnetwork').projectDir = "$rootDir/bundles/org.xmind.core.sharing.localnetwork" as File
+project(':org.xmind.de.erichseifert.vectorgraphics2d').projectDir = "$rootDir/bundles/org.xmind.de.erichseifert.vectorgraphics2d" as File
+project(':org.xmind.gef').projectDir = "$rootDir/bundles/org.xmind.gef" as File
+project(':org.xmind.gef.ui').projectDir = "$rootDir/bundles/org.xmind.gef.ui" as File
+project(':org.xmind.neuquant').projectDir = "$rootDir/bundles/org.xmind.neuquant" as File
+project(':org.xmind.org.freehep.vectorgraphics').projectDir = "$rootDir/bundles/org.xmind.org.freehep.vectorgraphics" as File
+project(':org.xmind.ui').projectDir = "$rootDir/bundles/org.xmind.ui" as File
+project(':org.xmind.ui.biggerplate').projectDir = "$rootDir/bundles/org.xmind.ui.biggerplate" as File
+project(':org.xmind.ui.browser').projectDir = "$rootDir/bundles/org.xmind.ui.browser" as File
+project(':org.xmind.ui.dashboard').projectDir = "$rootDir/bundles/org.xmind.ui.dashboard" as File
+project(':org.xmind.ui.evernote').projectDir = "$rootDir/bundles/org.xmind.ui.evernote" as File
+project(':org.xmind.ui.fishbone').projectDir = "$rootDir/bundles/org.xmind.ui.fishbone" as File
+project(':org.xmind.ui.imports').projectDir = "$rootDir/bundles/org.xmind.ui.imports" as File
+project(':org.xmind.ui.menus').projectDir = "$rootDir/bundles/org.xmind.ui.menus" as File
+project(':org.xmind.ui.mindmap').projectDir = "$rootDir/bundles/org.xmind.ui.mindmap" as File
+project(':org.xmind.ui.resources').projectDir = "$rootDir/bundles/org.xmind.ui.resources" as File
+project(':org.xmind.ui.sharing').projectDir = "$rootDir/bundles/org.xmind.ui.sharing" as File
+project(':org.xmind.ui.spelling').projectDir = "$rootDir/bundles/org.xmind.ui.spelling" as File
+project(':org.xmind.ui.spreadsheet').projectDir = "$rootDir/bundles/org.xmind.ui.spreadsheet" as File
+project(':org.xmind.ui.toolkit').projectDir = "$rootDir/bundles/org.xmind.ui.toolkit" as File
+project(':org.xmind.cathy.platform.feature').projectDir = "$rootDir/features/org.xmind.cathy.platform.feature" as File
+project(':org.xmind.hebe.feature').projectDir = "$rootDir/features/org.xmind.hebe.feature" as File
+project(':org.xmind.cathy.feature').projectDir = "$rootDir/features/org.xmind.cathy.feature" as File
+project(':net.xmind.workbench.feature').projectDir = "$rootDir/features/net.xmind.workbench.feature" as File
+project(':org.xmind.share.biggerplate.feature').projectDir = "$rootDir/features/org.xmind.share.biggerplate.feature" as File
+project(':org.xmind.share.evernote.feature').projectDir = "$rootDir/features/org.xmind.share.evernote.feature" as File
+project(':org.xmind.share.localnetwork.feature').projectDir = "$rootDir/features/org.xmind.share.localnetwork.feature" as File
+project(':org.xmind.share.xmindnet.feature').projectDir = "$rootDir/features/org.xmind.share.xmindnet.feature" as File
+project(':org.xmind.graphicsio.feature').projectDir = "$rootDir/features/org.xmind.graphicsio.feature" as File
+project(':org.xmind.cathy.repository').projectDir = "$rootDir/releng/org.xmind.cathy.repository" as File
+project(':org.xmind.cathy.product').projectDir = "$rootDir/releng/org.xmind.cathy.product" as File
+project(':shared-plugin-settings:wrapper-bundle-settings').projectDir = "$rootDir/org.xmind.cathy.releng/poms/wrappers" as File
+project(':shared-plugin-settings:compiled-bundle-settings').projectDir = "$rootDir/org.xmind.cathy.releng/poms/compiled" as File
+project(':shared-plugin-settings').projectDir = "$rootDir/org.xmind.cathy.releng/poms" as File
+project(':provision').projectDir = "$rootDir/org.xmind.cathy.releng/provision" as File
