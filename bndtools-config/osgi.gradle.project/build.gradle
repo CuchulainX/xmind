@@ -1,0 +1,43 @@
+/* 
+* Author: Ed Burke 
+* Date: 29 April 2016 
+* Example: Gradle OSGi Integration Example 
+* Site: 
+* */ 
+buildscript { 
+	
+	repositories { 
+		jcenter() 
+		mavenCentral() 
+	} 
+	
+} 
+plugins {
+    id "com.athaydes.osgi-run" version "1.4.3"
+}
+
+// repositories to download external files, like apache felix 
+// downloaded to '%USER_HOME%\.gradle\caches\modules-2\files-2.1' directory. 
+
+repositories { 
+
+	jcenter() 
+	mavenCentral() 
+} 
+
+// changed from Tutorial for Gradle 2.1+ changes
+
+
+
+// java version source compatibility 
+sourceCompatibility = 1.8 
+
+//apply plugin: 'osgi-run'
+apply plugin: 'com.athaydes.osgi-run'
+apply plugin:'java'
+ 
+
+// osgi-run plugin task that add OSGi subprojects as a bundle files to deploy. 
+runOsgi { 
+	bundles += subprojects 
+} 

@@ -1,0 +1,26 @@
+-buildpath: \
+	osgi.annotation;version=6.0.1,\
+	osgi.core;version=6.0,\
+	biz.aQute.bnd.annotation
+
+-testpath: \
+	junit; version=4,\
+	hamcrest-core; version=1.3
+	
+-runsystemcapabilities: ${native_capability}
+
+Bundle-Version: 1.0.0.${tstamp}
+
+Bundle-Activator: io_wintermute.osgi.HelloActivator
+Export-Package: osgi_bnd_discovery
+-runfw: org.apache.felix.framework;version='[5.2.0,5.2.0]'
+-runee: JavaSE-1.8
+-runrequires: \
+	osgi.identity;filter:='(osgi.identity=org.apache.felix.gogo.command)',\
+	osgi.identity;filter:='(osgi.identity=org.apache.felix.gogo.shell)',\
+	osgi.identity;filter:='(osgi.identity=osgi-bnd-discovery)',\
+	osgi.identity;filter:='(osgi.identity=osgi.core)',\
+	osgi.identity;filter:='(osgi.identity=osgi.annotation)'
+Service-Component: *
+-resolve: auto
+Private-Package: osgi_bnd_discovery

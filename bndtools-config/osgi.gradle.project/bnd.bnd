@@ -1,0 +1,29 @@
+-buildpath: \
+	osgi.annotation; version=6.0.1,\
+	osgi.core; version=6.0,\
+	osgi.cmpn; version=6.0
+
+-testpath: \
+	junit; version=4,\
+	hamcrest-core; version=1.3
+
+Bundle-Version: 1.1.1.${tstamp}
+Private-Package: osgi.gradle.project
+Bundle-Activator: osgi.gradle.project.Activator
+Export-Package: osgi.gradle.project
+-runrequires: \
+	osgi.identity;filter:='(osgi.identity=org.apache.felix.gogo.command)',\
+	osgi.identity;filter:='(osgi.identity=org.apache.felix.gogo.runtime)',\
+	osgi.identity;filter:='(osgi.identity=org.apache.felix.gogo.shell)',\
+	osgi.identity;filter:='(osgi.identity=osgi.gradle.project)',\
+	osgi.identity;filter:='(&(osgi.identity=org.apache.felix.eventadmin)(version>=1.4.4))',\
+	osgi.identity;filter:='(&(osgi.identity=osgi.compendium)(version>=4.1.0))',\
+	osgi.identity;filter:='(&(osgi.identity=osgi.enterprise)(version>=6.0.0))',\
+	osgi.identity;filter:='(osgi.identity=osgi.residential)'
+-runbundles: \
+	org.apache.felix.gogo.command;version='[0.14.0,0.14.1)',\
+	org.apache.felix.gogo.runtime;version='[0.16.2,0.16.3)',\
+	org.apache.felix.gogo.shell;version='[0.10.0,0.10.1)',\
+	osgi.gradle.project;version=snapshot
+-runfw: org.apache.felix.framework;version='[5.2.0,5.2.0]'
+-runee: JavaSE-1.8

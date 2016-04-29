@@ -26,6 +26,8 @@
   <artifactId>org.xmind.cathy.releng</artifactId>
   <version>1.0.0-WINTERMUTE</version>
 
+  <packaging>pom</packaging>
+
   <name>org.xmind.releng.org.xmind.cathy.releng (OSGi project)</name>
 
   <!--
@@ -42,7 +44,7 @@
     <org.osgi.service.http.port.secure>8443</org.osgi.service.http.port.secure>
   </properties>
 
-  <packaging>pom</packaging>
+  
 
   <modules>
     <module>poms</module>
